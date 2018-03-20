@@ -1,25 +1,11 @@
-# ReduxSimpleStarter
+# Reto rextie  
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Rextie es un servicio de cambio de dólares por internet (www.rextie.com) registrado
+como casa de cambio en la Superintendencia de Banca, Seguros y AFP (SBS). Está
+dirigido a personas, pequeñas y medianas empresas.  
 
-### Getting Started
+### ENUNCIADO:
+Proponer un nuevo diseño de la aplicación web (zona privada) que facilite a los
+usuarios realizar una cotización y operación de cambio de dólares.  
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+→ ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?
