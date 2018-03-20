@@ -1,8 +1,10 @@
 import React from 'react';
-import Header from './Header'
+import Header from './header'
 
 const App = () => (
-  <Header />
+  <Header
+    url="logo2.png" 
+  />
 )
 
 export default App

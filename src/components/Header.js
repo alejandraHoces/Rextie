@@ -1,8 +1,14 @@
 import React from 'react';
 
-const Header = () => (
+const Header = ({url}) => (
   <header>
-    <img className="logo" src="logo.png" alt="Logo"/>
+    <div className="container-fluid">
+      <div className="row">
+        <div className="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+          <img className="logo" src={url} alt={url} />
+        </div>
+      </div>
+    </div>
   </header>
 )
 
