@@ -16,6 +16,10 @@ Dado este contexto :
 
 ### Actividades de Investigación realizada con los usuarios.  
 **Investigacion del usuario -  Informacion Clave**  
+- Nuestra parte interesada creó esta aplicación para las personas con discapacidad auditiva, pero descubrimos que esto también es útil para las masas , y tal vez incluso más: 3/5 personas con problemas de audición a quienes entrevistamos no se preocuparon por encontrar lugares tranquilos porque se usan. tener que lidiar con los desafíos que presenta la pérdida de audición.  
+- La atmósfera de un lugar es la más influyente a la hora de decidir dónde salir, tanto para personas con discapacidad auditiva como auditiva.  
+- Los usuarios necesitan poder escuchar a las personas para que puedan tener conversaciones significativas.  
+- La pantalla de búsqueda en la aplicación existente no es intuitiva  
 
 **Prueba de usabilidad con la web actual**
 
