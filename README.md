@@ -35,5 +35,5 @@ Primer usuario **Giancarlos CF.**
 
 ### Analisis de la arquitectura de la informacion de la web de Rextie.  
 En el siguiente esquema, se analiso la información de la web de Rextie que se muestra al usuario.  
-![rectangle 3](https://user-images.githubusercontent.com/31807340/37680825-0b3714e0-2c53-11e8-9ce0-acdbf561ce4b.png)
-
+![rectangle 3](https://user-images.githubusercontent.com/31807340/37680825-0b3714e0-2c53-11e8-9ce0-acdbf561ce4b.png)  
+[Ver con detalle](https://drive.google.com/drive/my-drive)
