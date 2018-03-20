@@ -15,4 +15,4 @@ const Aside = () => {
   )
 }
 
-export default Aside
+export default Aside;
