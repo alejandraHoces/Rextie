@@ -1,8 +1,17 @@
 import React from 'react';
 
 const NewOperationUSD = () => (
-  <div>USD $
-    <div><p>Quiero</p><input placeholder="1,000"/></div>
+  <div>
+    <div className="sale-price">   
+      <p>Venta: 3.2860</p>
+    </div>
+    <div className="coin">
+      <span>USD $</span>
+    </div>
+    <div className="what-i-have">
+      <p>Quiero</p>
+      <input placeholder="1,000"/>
+    </div>
   </div>
 );
 
