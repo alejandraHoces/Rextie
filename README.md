@@ -13,8 +13,6 @@ Dado este contexto :
 → ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?  
 
 ## RESEARCH  
-### ANALISIS ACTUAL
-**Objetivos del negocio**  
 
 ### Actividades de Investigación realizada con los usuarios.  
 **Investigacion del usuario -  Informacion Clave**  
