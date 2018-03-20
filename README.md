@@ -16,7 +16,7 @@ Dado este contexto :
 ### ANALISIS ACTUAL
 **Objetivos del negocio**  
 
-#### Actividades de Investigación realizada con los usuarios.  
+### Actividades de Investigación realizada con los usuarios.  
 **Prueba de usabilidad con la web actual**
 
 Se realizaron pruebas a 5 personas a las cuales se les pidio que utilicen la web de Rextie y contaran sus experiencia para eso se utiliso la tecnica **Thinking Aloud Testing**.  
@@ -29,4 +29,4 @@ Se les pidio que realizen las siguentes actividades :
 - Identificar la cuenta a la que realizaran la transferencia.  
 - Finalizar la transaccion.
 
-1.**Giancarlos**  
+Primer usuario **Giancarlos CF.**  
