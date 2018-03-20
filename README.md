@@ -19,7 +19,8 @@ Dado este contexto :
 ### Actividades de Investigación realizada con los usuarios.  
 **Prueba de usabilidad con la web actual**
 
-Se realizaron pruebas a 5 personas a las cuales se les pidio que utilicen la web de Rextie y contaran sus experiencia para eso se utiliso la tecnica **Thinking Aloud Testing**.  
+Se realizaron pruebas a 5 personas a las cuales se les pidio que utilicen la web de Rextie y contaran sus experiencias utilizandola para eso se utiliso la tecnica **Thinking Aloud Testing**.  
+##### *Definición: En una prueba de pensamiento en voz alta, le pide a los participantes de la prueba que usen el sistema mientras piensan continuamente en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.*  
 
 Se les pidio que realizen las siguentes actividades :  
 
