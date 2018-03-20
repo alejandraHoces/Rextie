@@ -13,5 +13,6 @@ Dado este contexto :
 → ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?  
 
 ## Research  
-#### Analisis actual  
+#### ANALISIS ACTUAL 
 **Objetivos del Negocio**  
+Rextie es un  servicio digital de cambio de dólares. Está enfocada en la experiencia del cliente. Por ello, Rextie le brinda operaciones de cambio de moneda sin moverse de su casa u oficina, de forma sencilla a través de su página web o aplicación móvil. Con información transparente siempre publicada y actualizada. Nos preocupamos por que el servicio de cambio se realice en promedio en 15 minutos para operaciones menores de USD 5,000.  
