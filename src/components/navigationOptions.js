@@ -4,7 +4,7 @@ const NavigationOptions = () => {
   return (
     <div>
       <h1>Hola</h1>
-      <span><img src="../../assets/icons/usuario-hombre.png" /></span>
+      {/* <span><img src="../../assets/icons/usuario-hombre.png" /></span> */}
     </div>
   )
 }
