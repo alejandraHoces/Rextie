@@ -1,7 +1,10 @@
 import React from 'react';
+import Aside from './aside';
 
 const App = () => (
-  <div>React and redux are cool</div>
+  <div>
+    <Aside />
+  </div>
 )
 
 export default App
