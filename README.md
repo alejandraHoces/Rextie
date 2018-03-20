@@ -10,16 +10,16 @@ usuarios realizar una cotización y operación de cambio de dólares.
 
 Dado este contexto :  
 
-→ ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?  
+**→ ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?**  
 
 ## RESEARCH  
 
 ### Actividades de Investigación realizada con los usuarios.  
 **Investigacion del usuario -  Informacion Clave**  
-- Nuestra parte interesada creó esta aplicación para las personas con discapacidad auditiva, pero descubrimos que esto también es útil para las masas , y tal vez incluso más: 3/5 personas con problemas de audición a quienes entrevistamos no se preocuparon por encontrar lugares tranquilos porque se usan. tener que lidiar con los desafíos que presenta la pérdida de audición.  
-- La atmósfera de un lugar es la más influyente a la hora de decidir dónde salir, tanto para personas con discapacidad auditiva como auditiva.  
-- Los usuarios necesitan poder escuchar a las personas para que puedan tener conversaciones significativas.  
-- La pantalla de búsqueda en la aplicación existente no es intuitiva  
+- Nuestra parte interesada creó esta aplicación para que las personas puedan realizar el cambio de moneda de manera rapidoa, sin embargo tambien hay usuarios que solo ingresan para saber el tipo de cambio de dolares.  
+- Los usuarios no estas familiarizados con el cambio de moneda via web, ellos prefieren hacerlo de forma precencial por que eso es lo que ellos conocen.  
+- Los usuarios necesitan poder realizar su cambio de moneda de forma mas sencilla y segura.  
+- La pantalla de confirmacion de datos y registro de cuentaa en la web de Rextie existente no es intuitiva.  
 
 **Prueba de usabilidad con la web actual**
 
@@ -27,7 +27,7 @@ Se realizaron pruebas a 5 personas a las cuales se les pidio que utilicen la web
 
 ###### *Definición: En una prueba de pensamiento en voz alta, le pide a los participantes de la prueba que usen el sistema mientras piensan continuamente en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.*  
 
-Se les pidio que realizen las siguentes actividades :  
+**Se les pidio que realizen las siguentes actividades :**  
 
 - Registrarse e ingresar a la web de Rextie.  
 - Realizar una cotizacion tanto en soles como dolares.  
