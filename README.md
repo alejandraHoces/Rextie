@@ -17,6 +17,7 @@ Dado este contexto :
 **Objetivos del negocio**  
 
 ### Actividades de Investigación realizada con los usuarios.  
+**Encuesta Online**
 **Prueba de usabilidad con la web actual**
 
 Se realizaron pruebas a 5 personas a las cuales se les pidio que utilicen la web de Rextie y contaran sus experiencias para esta prueba se utiliso la tecnica **Thinking Aloud Testing**.  
@@ -32,3 +33,7 @@ Se les pidio que realizen las siguentes actividades :
 - Finalizar la transaccion.
 
 Primer usuario **Giancarlos CF.**  
+
+**Objetivos de los usuarios**  
+
+### Analisis de la arquitectura de la informacion de la web de Rextie.
