@@ -6,7 +6,7 @@ const Aside = () => {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-sm-4 col-md-4 col-lg-3 col-xl-3">
+        <div className="col-12 col-sm-5 col-md-5 col-lg-5 col-xl-3">
           <UserInfo />
           <NavigationOptions />
         </div>
