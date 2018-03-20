@@ -10,4 +10,8 @@ usuarios realizar una cotización y operación de cambio de dólares.
 
 Dado este contexto :  
 
-→ ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?
+→ ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?  
+
+## Research  
+#### Analisis actual  
+**Objetivos del Negocio**  
