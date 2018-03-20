@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.info-main-box {
+  background-color: #5d5d57;
+  border-radius: 3px;
+  max-width: 450px;
+  padding: 0.8em 3em;
+}
+
+.info-main-box h4 {
+  color: #fff;
+}
+
+.info-main-box p {
+  color: #4db63f;
+}
+
+.buy-sale-box {
+  border: 2px solid #0998d9;
+  border-radius: 3px;
+  margin-top: 1.2em;
+  max-width: 450px;
+}
+
+.buy-box, .sale-box {
+  display: inline-block;
+  width: 50%;
+} 
