@@ -11,7 +11,7 @@ const UserInfo = ({title, otherInfo}) => {
             {otherInfo.map((el, index) => <ExtraInfo info={el} key={index}/>)}
           </div>
         </div>
-      </div>
+      </div> 
     </div>
   )
 }
