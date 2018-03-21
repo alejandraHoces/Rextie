@@ -1,10 +1,11 @@
 import React from 'react';
 import NavigationOptionsIcons from './navigationOptionsIcons';
 
-const NavigationOptions = ({option}) => {
+const NavigationOptions = ({option, optionIcons}) => {
+  const liIcons =  optionIcons.map((el, i) => <NavigationOptionsIcons navigationIcon={el} key={el}/>);
   return(
-    <li>
-      <NavigationOptionsIcons />{' '}<span>{option}</span>
+    <li className="list-group-item">
+      {liIcons}{' '}<span>{option}</span>
     </li>
   )
 } 

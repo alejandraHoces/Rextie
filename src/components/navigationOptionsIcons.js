@@ -1,8 +1,8 @@
 import React from 'react';
 
-const NavigationOptionsIcons = () => {
+const NavigationOptionsIcons = ({navigationIcon}) => {
   return (
-    <span>A</span>
+    <span><img className="navigation-icon" src={"../../assets/icons/" + navigationIcon} alt={navigationIcon}/>{' '}</span>
   )
 }
 
