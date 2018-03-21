@@ -1,12 +1,12 @@
 import React from 'react';
+import NavigationOptionsIcons from './navigationOptionsIcons';
 
-const NavigationOptions = () => {
-  return (
-    <div>
-      <h1>Hola</h1>
-      {/* <span><img src="../../assets/icons/usuario-hombre.png" /></span> */}
-    </div>
+const NavigationOptions = ({option}) => {
+  return(
+    <li>
+      <NavigationOptionsIcons />{' '}<span>{option}</span>
+    </li>
   )
-}
-// ../../assets/icons/usuario-hombre.png
+} 
+
 export default NavigationOptions;
