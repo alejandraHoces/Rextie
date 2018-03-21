@@ -1,7 +1,10 @@
 import React from 'react';
+import Header from './header'
 
 const App = () => (
-  <div>React and redux are cool</div>
+  <Header
+    url="logo2.png" 
+  />
 )
 
 export default App
