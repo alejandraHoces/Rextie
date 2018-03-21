@@ -41,16 +41,19 @@ Primer usuario **Giancarlos CF.**
 En el siguiente esquema, se analiso la información de la web de Rextie que se muestra al usuario.  
 ![rectangle 3](https://user-images.githubusercontent.com/31807340/37680825-0b3714e0-2c53-11e8-9ce0-acdbf561ce4b.png)  
 [Ver con detalle](https://drive.google.com/drive/my-drive)  
-**Problemas principales**  
+#### Problemas principales  
 1.Vista nueva operacion  
 - No se muestra de forma clara cuándo es compra y cuando es venta.  
 - No se identifica el boton de cambio de moneda no es clara su utilidad.  
+
 2.Opcion de registro  
 - No se tiene claro desde el inicio que tiene que registrar cuenta en soles y dolares.  
 - El registro de cuentas solo permite hacerlo uno por uno de forma individual.  
+
 3.Opcion de Seleccion de cuentas(Origen/Destino)  
 - Al seleccionar cuenta de origen no hay una guia que le indique al usuario que es la cuenta de la que se realizara la transferencia.  
 - Al seleccionar la cuenta de destino hay una guia que le indique al usuario que tiene que añadir otra cuenta y de diferente denominacion de la que transfirio.  
+
 4.Notificacion de la operacion  
 - Al mostrar el mensaje de ultimos pasos de la operacion no se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
 - Al inicio de la notificacion aparece el codigo de operacion eso da a entender al usuario que la operacion a culminado.  
