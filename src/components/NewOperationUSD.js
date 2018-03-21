@@ -9,7 +9,7 @@ const NewOperationUSD = () => (
       <span>USD $</span>
     </div>
     <div className="what-i-have">
-      <p>Quiero</p>
+      <p>Quiero</p><i class="fas fa-star"></i>
       <input placeholder="1,000"/>
     </div>
   </div>

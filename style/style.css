@@ -4,6 +4,13 @@
   padding: 0;
 }
 
+main {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .info-main-box {
   background-color: #5d5d57;
   border-radius: 3px;
@@ -24,13 +31,21 @@
   border-radius: 3px;
   margin-top: 1.2em;
   max-width: 450px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  text-align: center;
 }
 
 .buy-box, .sale-box {
-  display: inline-block;
-  width: 50%;
+  width: 100%;
 } 
+
+.buy-price p, .sale-price p {
+  color: #0998d9;
+}
 
 .coin {
   background-color: #0998d9;
+  color: #fff;
 }

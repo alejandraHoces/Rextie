@@ -4,8 +4,8 @@ import NewOperationUSD from './NewOperationUSD';
 
 const NewOperation = () => {
   return (
-    <main className="col-md-6 main-box">
-      <div>
+    <main className="col-md-6">
+      <div className="main-box">
         <h3>¿Cuánto quieres cambiar?</h3>
         <div className="info-main-box">
           <h4>Cambio de Dólares Online</h4>
