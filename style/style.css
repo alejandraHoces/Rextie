@@ -10,8 +10,15 @@
 .personal-account h5 {
   font-size: 1.5rem;
 }
+
+.list-group-item:first-of-type {
+  background-color: #454547;
+  color: white;
+}
+
 .navigation-icon {
   max-width: 100%;
   height: auto;
   width: 8%;
+  margin-right: 1em;
 }
