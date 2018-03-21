@@ -25,7 +25,7 @@ Dado este contexto :
 
 Se realizaron pruebas a 5 personas a las cuales se les pidio que utilicen la web de Rextie y contaran sus experiencias para esta prueba se utiliso la tecnica **Thinking Aloud Testing**.  
 
-###### *Definición: En una prueba de pensamiento en voz alta, le pide a los participantes de la prueba que usen el sistema mientras piensan continuamente en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.*  
+###### *Definición: En una prueba de pensamiento en voz alta, le pides a los participantes de la prueba que usen el sistema mientras piensan continuamente en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.*  
 
 **Se les pidio que realizen las siguentes actividades :**  
 
@@ -36,6 +36,12 @@ Se realizaron pruebas a 5 personas a las cuales se les pidio que utilicen la web
 - Finalizar la transaccion.
 
 Primer usuario **Giancarlos CF.**  
+### Benchmark:
+Sabemos que el principal problema de nuestro usuario es la claridad de la informacion ¿Cómo lo resolvieron otras empresas?
+
+**Análisis Competitivo**
+Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.  
+![rectangle 3](https://user-images.githubusercontent.com/31807340/37689914-d49b10e4-2c75-11e8-97f3-b92b2f8d0528.png)
 
 ### Analisis de la arquitectura de la informacion de la web de Rextie.  
 En el siguiente esquema, se analiso la información de la web de Rextie que se muestra al usuario.  
