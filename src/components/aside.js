@@ -3,6 +3,7 @@ import UserInfo from './userInfo.js';
 import NavigationOptionsList from './navigationOptionsList.js';
 
 const data = {
+  personalInfo: {title: 'Cuenta Personal', otherInfo: [['DNI:', 78451235], ['Ponte', 'Ana']]},
   userOptions: [
     ['boton-de-reproduccion.png', 'Nueva Operación'], 
     ['usuario-hombre.png', 'Información Personal'], 
@@ -20,7 +21,7 @@ const Aside = () => {
     <div className="container-fluid">
       <div className="row">
         <div className="col-12 col-sm-5 col-md-5 col-lg-5 col-xl-3">
-          <UserInfo />
+          <UserInfo title={data.personalInfo.title} otherInfo={data.personalInfo.otherInfo}/>
           <NavigationOptionsList options={data.userOptions}/>
         </div>
       </div>

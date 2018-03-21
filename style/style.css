@@ -11,6 +11,10 @@
   font-size: 1.5rem;
 }
 
+.span-info:first-of-type {
+  margin-right: 0.5em;
+}
+
 .list-group-item:first-of-type {
   background-color: #454547;
   color: white;
