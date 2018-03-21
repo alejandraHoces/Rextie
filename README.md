@@ -63,3 +63,5 @@ Sabemos que el principal problema de nuestro usuario es la claridad de la inform
 Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.  
 ![rectangle 3](https://user-images.githubusercontent.com/31807340/37689914-d49b10e4-2c75-11e8-97f3-b92b2f8d0528.png)  
 
+### User Personas  
+Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.
