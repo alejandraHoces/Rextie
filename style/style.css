@@ -136,6 +136,29 @@ header {
   border: 1px solid gray;
 }
 
+/* Process Information Component */
+
+.process-information-label {
+  font-weight: 700;
+  display: block;
+  font-size: 1.1em;
+}
+
+.transfer-money-form-group .flex-container-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-input-container {
+  display: inline-block;
+  width: 5%;
+}
+
+.icon-input {
+  max-width: 100%;
+}
+
 @media(min-width: 576px) {
   .logo {
     width: 25%;
