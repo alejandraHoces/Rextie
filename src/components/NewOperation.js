@@ -4,7 +4,7 @@ import NewOperationUSD from './NewOperationUSD';
 
 const NewOperation = () => {
   return (
-    <main className="col-12 col-sm-7 col-md-7 col-lg-7 col-xl-9">
+    <div>
       <div className="main-box">
         <h3>¿Cuánto quieres cambiar?</h3>
         <div className="info-main-box">
@@ -20,7 +20,7 @@ const NewOperation = () => {
           <NewOperationUSD />
         </div>
       </div>
-    </main>
+    </div>
   )
 }
 

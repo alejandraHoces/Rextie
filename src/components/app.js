@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './header'
-import NewOperation from './NewOperation'
+import Main from './main'
 import Aside from './aside';
 
 const App = () => (
@@ -11,7 +11,7 @@ const App = () => (
     <div className="container-fluid">
       <div className="row">
         <Aside />
-        <NewOperation /> 
+        <Main /> 
     </div>
     </div>
   </div>
