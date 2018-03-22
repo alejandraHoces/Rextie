@@ -2,16 +2,16 @@ import React from 'react';
 import TransferMoney from './transferMoney';
 
 const ProcessInformation = () => (
-  <div>
+  <div className="process-information-div">
     <form>
       <TransferMoney />
       <div className="form-group transfer-money-form-group">
         <label className="process-information-label" for="exampleInputEmail1">Celular</label>
-        <div className="input-group flex-container-center">
+        <div className="input-group process-information-input-group flex-container-center">
           <div className="input-group-prepend icon-input-container">
             <img className="icon-input" src="../../assets/icons/icon.png" alt="icon.png"></img>
           </div>
-          <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
+          <input type="email" className="form-control process-information-input" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
         </div>
       </div>
       <div className="form-check">

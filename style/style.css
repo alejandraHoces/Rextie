@@ -138,10 +138,39 @@ header {
 
 /* Process Information Component */
 
+.process-information-div {
+  padding: 2.3em;
+}
+
+.process-information-input-group {
+  border: 1px solid #7ace3b;
+}
+
 .process-information-label {
   font-weight: 700;
   display: block;
   font-size: 1.1em;
+}
+
+.process-information-input-group .process-information-input {
+  border: none;
+}
+
+.icon-input-container {
+  display: inline-block;
+  width: 5%;
+  border-right: 1px solid #7ace3b
+}
+
+.icon-input {
+  max-width: 100%;
+  padding: 0.3em;
+}
+
+.transfer-money-flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .transfer-money-form-group .flex-container-center {
@@ -150,13 +179,17 @@ header {
   align-items: center;
 }
 
-.icon-input-container {
-  display: inline-block;
+.transfer-money-container-image {
   width: 5%;
 }
 
-.icon-input {
+.transfer-money-image {
   max-width: 100%;
+}
+
+.bank-account-select {
+  border: 1px solid #7ace3b;
+  padding: 1em 0;
 }
 
 @media(min-width: 576px) {
