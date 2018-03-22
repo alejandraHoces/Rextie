@@ -14,8 +14,7 @@ header {
 }
 
 /* New Operation */
-main {
-  text-align: center;
+.new-operation {
   display: flex;
   flex-direction: column;
   align-items: center;
