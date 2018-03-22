@@ -130,6 +130,12 @@ header {
   margin-right: 1em;
 }
 
+/* Data Confirmation Component */
+
+.confirmation-operation {
+  border: 1px solid gray;
+}
+
 @media(min-width: 576px) {
   .logo {
     width: 25%;
