@@ -95,6 +95,11 @@ header {
   color: #fff;
 }
 
+/* Personal Information */
+.personal-information h4, .personal-information p {
+  display: inline-block;
+}
+
 /* Navigation Components */
 
 .aside {
