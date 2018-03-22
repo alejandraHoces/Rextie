@@ -2,7 +2,7 @@ import React from 'react';
 import NewOperationPEN from './NewOperationPEN';
 import NewOperationUSD from './NewOperationUSD';
 
-const NewOperation = () => {
+const NewOperation = ({icon}) => {
   return (
     <main className="col-12 col-sm-7 col-md-7 col-lg-7 col-xl-9">
       <div className="main-box">
@@ -16,6 +16,7 @@ const NewOperation = () => {
         <div className="buy-box"> 
           <NewOperationPEN />
         </div>
+        <div className="flex-dollar-container"><span className="dollar-icon-container"><img src={"../../assets/icons/" + icon} alt={icon}/></span></div>
         <div className="sale-box"> 
           <NewOperationUSD />
         </div>

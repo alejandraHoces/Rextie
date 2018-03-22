@@ -11,7 +11,7 @@ const App = () => (
     <div className="container-fluid">
       <div className="row">
         <Aside />
-        <NewOperation /> 
+        <NewOperation icon="dinero (1).png"/> 
     </div>
     </div>
   </div>
