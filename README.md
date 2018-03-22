@@ -75,4 +75,8 @@ Creamos un par de "personajes" ficticios para organizar y descubrir patrones en 
 ![desktop 6](https://user-images.githubusercontent.com/31807340/37800608-71a41206-2df1-11e8-84c0-0eb55982c007.png)  
 
 **Vista añadir terceros**  
-![desktop 7](https://user-images.githubusercontent.com/31807340/37801687-8303770e-2df5-11e8-9124-fde8993d1a8e.png)
+![desktop 7](https://user-images.githubusercontent.com/31807340/37801687-8303770e-2df5-11e8-9124-fde8993d1a8e.png)  
+
+**Vista modal confirmación**  
+![desktop 8](https://user-images.githubusercontent.com/31807340/37802057-e57a4f4c-2df6-11e8-945a-8071d87e2a3f.png)
+
