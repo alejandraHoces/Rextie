@@ -1,5 +1,9 @@
 import React from 'react';
+<<<<<<< HEAD
 import NewOperation from './NewOperation';
+=======
+import NewOperation from './NewOperation'
+>>>>>>> c492c20da7dc9dc701905c511e2a489f23af3185
 
 const Main = () => {
   return (
