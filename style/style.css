@@ -46,6 +46,39 @@ header {
   text-align: center;
 }
 
+.flex-dollar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 112px;
+  top: 175px;
+  width: 23%;
+  border-radius: 50%;
+}
+
+.dollar-icon-container {
+  background-color: #7ace3b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 50%;
+  /* height: 58%; */
+  justify-content: center;
+  width: 33%;
+}
+
+.dollar-icon-container img {
+  max-width: 100%;
+  height: auto;
+  /* width: 45%; */
+}
+
+.buy-box {
+  position: relative;
+}
+
 .buy-box, .sale-box {
   width: 100%;
 } 
@@ -66,7 +99,7 @@ header {
 }
 
 .personal-account {
-  background-color: #7ACE3B;
+  background-color: #7ace3b;
   color: white;
   font-weight: 600;
   padding: 1em 3em;
