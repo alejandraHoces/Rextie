@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './header'
-// import NewOperation from './NewOperation'
+import DataConfirmation from './data-confirmation'
 import Aside from './aside';
 
 const App = () => (
@@ -11,6 +11,7 @@ const App = () => (
     <div className="container-fluid">
       <div className="row">
         <Aside />
+        <DataConfirmation />
         {/* <NewOperation icon="dinero (1).png"/>  */}
     </div>
     </div>
