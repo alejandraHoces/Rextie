@@ -52,21 +52,24 @@ header {
   justify-content: center;
   align-items: center;
   position: absolute;
-  left: 112px;
-  top: 175px;
-  width: 23%;
+  /* left: 112px; */
+  /* top: 175px; */
+  /* width: 61%; */
   border-radius: 50%;
+  height: 35%;
+  margin-left: 1.5em;
 }
 
 .dollar-icon-container {
   background-color: #7ace3b;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* align-items: center; */
   border-radius: 50%;
   /* height: 58%; */
-  justify-content: center;
-  width: 33%;
+  /* justify-content: center; */
+  width: 20%;
+  position: relative;
 }
 
 .dollar-icon-container img {
