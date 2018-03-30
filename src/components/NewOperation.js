@@ -4,7 +4,7 @@ import NewOperationUSD from './NewOperationUSD';
 
 const NewOperation = ({icon}) => {
   return (
-    <div>
+    <div className="new-operation">
       <div className="main-box">
         <h3>¿Cuánto quieres cambiar?</h3>
         <div className="info-main-box">
