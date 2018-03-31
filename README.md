@@ -69,7 +69,8 @@ Creamos un par de "personajes" ficticios para organizar y descubrir patrones en 
 ### Flujo del usuario en el prototipo de la web de Rextie renovado  
 
 **Pantalla Inicial**  
-![desktop 5](https://user-images.githubusercontent.com/31807340/37799726-98c252d8-2dee-11e8-9307-c1f55b3aaae5.png)  
+![37799726-98c252d8-2dee-11e8-9307-c1f55b3aaae5](https://user-images.githubusercontent.com/31807340/38168169-b52a1a64-350a-11e8-8327-ccb0499d2b9f.png)
+
 
 **Vista confirmacion de datos**  
 ![desktop 6](https://user-images.githubusercontent.com/31807340/37800608-71a41206-2df1-11e8-84c0-0eb55982c007.png)  
