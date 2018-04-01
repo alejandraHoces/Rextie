@@ -4,6 +4,8 @@ Rextie es un servicio de cambio de dólares por internet (www.rextie.com) regist
 como casa de cambio en la Superintendencia de Banca, Seguros y AFP (SBS). Está
 dirigido a personas, pequeñas y medianas empresas.  
 
+![logo_rextie_1200x630-v2 de62cdc2991f 1](https://user-images.githubusercontent.com/31807340/38168934-3265684c-3521-11e8-89bd-0ad59740bc16.png)
+
 #### ENUNCIADO:
 Proponer un nuevo diseño de la aplicación web (zona privada) que facilite a los
 usuarios realizar una cotización y operación de cambio de dólares.  
@@ -41,6 +43,7 @@ Primer usuario **Giancarlos CF.**
 En el siguiente esquema, se analiso la información de la web de Rextie que se muestra al usuario.  
 ![rectangle 3](https://user-images.githubusercontent.com/31807340/37680825-0b3714e0-2c53-11e8-9ce0-acdbf561ce4b.png)  
 [Ver con detalle](https://drive.google.com/drive/my-drive)  
+
 #### Problemas principales  
 1.Vista nueva operacion  
 - No se muestra de forma clara cuándo es compra y cuando es venta.  
@@ -57,18 +60,20 @@ En el siguiente esquema, se analiso la información de la web de Rextie que se m
 4.Notificacion de la operacion  
 - Al mostrar el mensaje de ultimos pasos de la operacion no se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
 - Al inicio de la notificacion aparece el codigo de operacion eso da a entender al usuario que la operacion a culminado.  
+
 ### Benchmark:  
 Sabemos que el principal problema de nuestro usuario es la claridad de la informacion ¿Cómo lo resolvieron otras empresas?  
-**Análisis Competitivo**
+**Análisis Competitivo**  
+
 Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.  
 ![rectangle 3](https://user-images.githubusercontent.com/31807340/37689914-d49b10e4-2c75-11e8-97f3-b92b2f8d0528.png)  
 
 ### User Personas  
-Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
+Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que vamos resolver.  
 
 ![rextie 16](https://user-images.githubusercontent.com/31807340/38168690-0d4c9bae-351a-11e8-889f-2185d88c678a.png)
 
-### Flujo del usuario en el prototipo de la web de Rextie renovado  
+### Prototipo de alta fidelidad  
 
 **Pantalla Inicial**  
 ![37799726-98c252d8-2dee-11e8-9307-c1f55b3aaae5](https://user-images.githubusercontent.com/31807340/38168169-b52a1a64-350a-11e8-8327-ccb0499d2b9f.png)
