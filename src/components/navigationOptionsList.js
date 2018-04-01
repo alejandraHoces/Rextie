@@ -1,16 +1,19 @@
 import React from 'react';
 import NavigationOptions from './navigationOptions';
 
-const NavigationOptionsList = ({options}) => {
-
+const NavigationOptionsList = ({menuOptions}) => {
   return (
     <div className="container">
       <div className="row">
         <div className="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
           <div>
             <ul className="list-group">
-               { options.map((el) => <NavigationOptions option={el} key={el} />)
-               }
+               { menuOptions.map(menu =>
+                  <NavigationOptions
+                    key={menu.id}
+                    {...menu}
+                  />
+               )}
             </ul>
           </div>
         </div>
