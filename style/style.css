@@ -121,9 +121,20 @@ header {
   margin-left: 0.5em; }
 
 /* Rextie Bank Accounts Component */
-th {
+.rextie-bank-accounts-table-container {
+  margin: 1em 0 2em; }
+
+table {
+  width: 100%; }
+
+table th {
   padding: 0 1em; }
 
+thead tr {
+  background-color: #B9CDF1; }
+
+tbody tr:nth-child(1) {
+  background-color: #E6E7E8; }
 tbody th {
   font-weight: 400; }
 

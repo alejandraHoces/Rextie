@@ -10,7 +10,7 @@ const RextieBankAccounts = () => {
     <div>
       <h2>Cuentas Bancarias de Rextie</h2>
       {' '}
-      <div>
+      <div className="rextie-bank-accounts-table-container">
         <p>CCI Interbank (para transferencias interbancarias)</p>
         <table>
           <thead>
@@ -34,7 +34,7 @@ const RextieBankAccounts = () => {
           </tbody>
         </table>
       </div>
-      <div>
+      <div className="rextie-bank-accounts-table-container">
         <p>BCP</p>
         <table>
           <thead>
@@ -58,7 +58,7 @@ const RextieBankAccounts = () => {
           </tbody>
         </table>
       </div>
-      <div>
+      <div className="rextie-bank-accounts-table-container">
         <p>INTERBANK</p>
         <table>
           <thead>

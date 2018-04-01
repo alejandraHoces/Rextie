@@ -9,8 +9,8 @@ $green: #7ACE3B;
 $white: #F6F9FC;
 $dark-grey: #737476;
 $middle-grey: #A2A2A2;
-$ligth-grey: #E6E7E8;
-
+$light-grey: #E6E7E8;
+$light-blue: #B9CDF1;
 
 body {
   box-sizing: border-box;
@@ -36,7 +36,7 @@ header {
 }
 
 .info-main-box {
-  background-color: $ligth-grey;
+  background-color: $light-grey;
   border-radius: 3px;
   max-width: 450px;
   padding: 0.8em 3em;
@@ -115,7 +115,7 @@ header {
 /* Navigation Components */
 
 .aside {
-  border-right: 1px solid $ligth-grey;
+  border-right: 1px solid $light-grey;
 }
 
 .personal-account {
@@ -163,11 +163,29 @@ header {
 
 /* Rextie Bank Accounts Component */
 
-th {
+.rextie-bank-accounts-table-container {
+  margin: 1em 0 2em;
+}
+
+table {
+  width: 100%;
+}
+
+table th {
   padding: 0 1em;
 }
 
+thead {
+  tr {
+    background-color: $light-blue;
+  }
+}
+
 tbody {
+  tr:nth-child(1) {
+    background-color: $light-grey;
+  }
+
   th {
     font-weight: 400;
   }
