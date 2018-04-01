@@ -1,8 +1,11 @@
 import React from 'react';
 
 const RegisterAccount = () => (
-  <div>
-    <h4>Cuentas registradas</h4>
+  <div className="personal-bank-account">
+    <div className="header-personal-bank-account">
+      <h3>Cuentas Bancarias Personales -  </h3>
+      <img src="assets/icons/simbolo-mas-en-un-cuadrado-negro-redondeado.png"/>
+    </div>
     <div>
       <p>Cuenta principal: </p> <span>0011-0117-95-0200296016</span>
     </div>
