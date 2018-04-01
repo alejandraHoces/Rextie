@@ -98,6 +98,11 @@ header {
   .personal-account h5 {
     font-size: 1.5rem; }
 
+.personal-bank-account {
+  margin-top: 8.3em; }
+  .personal-bank-account .in-use {
+    text-align: center; }
+
 .span-info:first-of-type {
   margin-right: 0.5em; }
 
@@ -124,6 +129,20 @@ header {
   .logo {
     width: 25%;
     margin-left: 1em; } }
+.container-soles th, .container-soles td {
+  border: 1px solid #E6E7E8;
+  padding: 0.5em;
+  width: 11em;
+  color: #737476; }
+.container-soles .data-soles {
+  background-color: #F6F9FC; }
+.container-soles .active-button {
+  background-color: #7ACE3B;
+  border: none;
+  border-radius: 0.3em;
+  color: #fff;
+  padding: 0.3em 1.1em; }
+
 @media (min-width: 992px) {
   .logo {
     margin-left: 1.6em; } }

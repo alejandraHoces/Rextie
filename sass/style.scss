@@ -6,7 +6,7 @@
 
 $blue: #26A8E0;
 $green: #7ACE3B;
-$white: #F6F9FC;
+$almost-white: #F6F9FC;
 $dark-grey: #737476;
 $middle-grey: #A2A2A2;
 $ligth-grey: #E6E7E8;
@@ -130,6 +130,15 @@ header {
   }
 }
 
+
+.personal-bank-account {
+  margin-top: 8.3em;
+
+  .in-use {
+    text-align: center;
+  }
+}
+
 .span-info:first-of-type {
   margin-right: 0.5em;
 }
@@ -166,6 +175,28 @@ header {
     width: 25%;
     margin-left: 1em;
   }
+}
+
+.container-soles {
+  th, td {
+    border: 1px solid $ligth-grey; 
+    padding: 0.5em;
+    width: 11em;   
+    color: $dark-grey;
+  }
+  
+  .data-soles {
+    background-color: $almost-white;
+  }
+
+  .active-button {
+    background-color: $green;
+    border: none;
+    border-radius: 0.3em;
+    color: #fff;
+    padding: 0.3em 1.1em;
+  }
+
 }
 
 @media(min-width: 992px) {
