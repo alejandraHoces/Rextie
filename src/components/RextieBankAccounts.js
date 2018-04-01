@@ -1,6 +1,6 @@
 import React from 'react';
 
-var DATES = [{
+const DATA = [{
   title: 'Cuentas Bancarias de Rextie',
   banks: [['Corriente', 'Doláres', '00316600300127343563'], ['Corriente', 'Soles', '00316600300127342868']]
 }]
@@ -8,24 +8,80 @@ var DATES = [{
 const RextieBankAccounts = () => {
   return (
     <div>
-    <h2>Cuentas Bancarias de Rextie</h2>
-    {' '}
-    <div>
-      <div>
-        <p><span>Banco:</span> <span>Interbank</span></p>
-        <p>Cuenta: 125XXXXXXXX</p>
-      </div>
+      <h2>Cuentas Bancarias de Rextie</h2>
       {' '}
       <div>
-        <p>Banco: Scotiabank</p>
-        <p>Cuenta: 134XXXXXXXX</p>
+        <p>CCI Interbank (para transferencias interbancarias)</p>
+        <table>
+          <thead>
+            <tr>
+              <th>Tipo de Cuenta</th>
+              <th>Moneda</th>
+              <th>Número de Cuenta</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Corriente</th>
+              <th>Dólares</th>
+              <th>00316600300127343563</th>
+            </tr>
+            <tr>
+              <th>Corriente</th>
+              <th>Soles</th>
+              <th>00316600300127342868</th>
+            </tr>
+          </tbody>
+        </table>
       </div>
-      {' '}
       <div>
-        <p>Banco: BCP</p>
-        <p>Cuenta: 127XXXXXXXX</p>
+        <p>BCP</p>
+        <table>
+          <thead>
+            <tr>
+              <th>Tipo de Cuenta</th>
+              <th>Moneda</th>
+              <th>Número de Cuenta</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Corriente</th>
+              <th>Dólares</th>
+              <th>1931700523109</th>
+            </tr>
+            <tr>
+              <th>Corriente</th>
+              <th>Soles</th>
+              <th>1932357833093</th>
+            </tr>
+          </tbody>
+        </table>
       </div>
-    </div>
+      <div>
+        <p>INTERBANK</p>
+        <table>
+          <thead>
+            <tr>
+              <th>Tipo de Cuenta</th>
+              <th>Moneda</th>
+              <th>Número de Cuenta</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Corriente</th>
+              <th>Dólares</th>
+              <th>1663001273435</th>
+            </tr>
+            <tr>
+              <th>Corriente</th>
+              <th>Soles</th>
+              <th>1663001273428</th>
+            </tr>
+          </tbody>
+        </table>
+      </div>
   </div>
   )
 }

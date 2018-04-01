@@ -132,6 +132,18 @@ header {
   margin-right: 1em;
 }
 
+/* Rextie Bank Accounts Component */
+
+th {
+  padding: 0 1em;
+}
+
+tbody {
+  th {
+    font-weight: 400;
+  }
+}
+
 @media(min-width: 576px) {
   .logo {
     width: 25%;
