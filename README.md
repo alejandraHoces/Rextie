@@ -42,6 +42,7 @@ En el siguiente esquema, se analiso la información de la web de Rextie que se m
 ![rectangle 3](https://user-images.githubusercontent.com/31807340/37680825-0b3714e0-2c53-11e8-9ce0-acdbf561ce4b.png)  
 [Ver con detalle](https://drive.google.com/drive/my-drive)  
 
+
 #### Problemas principales  
 Segun las entrevistas y el analisis del sitemap se encotraron los siguentes problemas a solucionar.  
 
@@ -60,13 +61,6 @@ Segun las entrevistas y el analisis del sitemap se encotraron los siguentes prob
 **4.Notificacion de la operacion**  
 - Al mostrar el mensaje de ultimos pasos de la operacion no se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
 - Al inicio de la notificacion aparece el codigo de operacion eso da a entender al usuario que la operacion a culminado.  
-
-### Benchmark:  
-Sabemos que el principal problema de nuestro usuario es la claridad de la informacion ¿Cómo lo resolvieron otras empresas?  
-**Análisis Competitivo**  
-
-Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.  
-![rectangle 6](https://user-images.githubusercontent.com/31807340/38169142-abb06368-3527-11e8-9b0c-73f8b81410d1.png)
 
 ### User Personas  
 Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que vamos resolver.  
