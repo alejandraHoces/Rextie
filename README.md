@@ -72,7 +72,8 @@ Creamos un par de "personajes" ficticios para organizar y descubrir patrones en 
 ![rextie 16](https://user-images.githubusercontent.com/31807340/38168690-0d4c9bae-351a-11e8-889f-2185d88c678a.png)
 
 ### Prototipo de alta fidelidad  
-
+Con toda la informacion de la investigacion realizada rediseñamos la web de Rextie manteniendo su escensia y haciendolo mas intuitivo .
+[ver prototipo a qui!](https://marvelapp.com/3bi16f0)
 **Pantalla Inicial**  
 ![37799726-98c252d8-2dee-11e8-9307-c1f55b3aaae5](https://user-images.githubusercontent.com/31807340/38168169-b52a1a64-350a-11e8-8327-ccb0499d2b9f.png)
 
