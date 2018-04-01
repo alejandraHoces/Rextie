@@ -1,28 +1,27 @@
 import React from 'react';
 
-const NewOperationUSD = ({setExchange2Changed, secondText, outputText, setOutputText, sell}) => (
+const NewOperationUSD = ({setExchangeChanged, firstText, inputText, setInputText, buy}) => (
   <div>
-    <div className="sale-price">   
+    <div className="buy-price font-weight-bold">
       <p onClick={evt => {
     // console.log(evt.isTrusted)
-       setExchange2Changed(evt.isTrusted);
-       }}>Venta:<span>{sell}</span></p>
+    setExchangeChanged(evt.isTrusted);
+  }}>Compra:{' '}<span>{buy}</span></p>
     </div>
     <div className="coin">
       <span>USD $</span>
     </div>
     <div className="what-i-have">
-      <p>{secondText}</p>
+      <p>{firstText}</p>
       <input 
-      value={outputText} 
-      placeholder="Output"
+      value={inputText} 
       onChange={evt => {
-        setOutputText(evt.target.value);
+        setInputText(evt.target.value)
       }}
+      placeholder="Input"
       />
     </div>
   </div>
-);
-
+)
 
 export default NewOperationUSD;

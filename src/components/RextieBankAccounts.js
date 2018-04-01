@@ -1,5 +1,10 @@
 import React from 'react';
 
+var DATES = [{
+  title: 'Cuentas Bancarias de Rextie',
+  banks: [['Corriente', 'Doláres', '00316600300127343563'], ['Corriente', 'Soles', '00316600300127342868']]
+}]
+
 const RextieBankAccounts = () => {
   return (
     <div>
@@ -7,7 +12,7 @@ const RextieBankAccounts = () => {
     {' '}
     <div>
       <div>
-        <p>Banco: Interbank</p>
+        <p><span>Banco:</span> <span>Interbank</span></p>
         <p>Cuenta: 125XXXXXXXX</p>
       </div>
       {' '}

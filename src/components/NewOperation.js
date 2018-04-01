@@ -16,10 +16,10 @@ const NewOperation = ({inputText, outputText, firstText, secondText, buyMoney1,
       </div>
       <div className="buy-sale-box">
         <div className="buy-box"> 
-          <NewOperationPEN setExchangeChanged={setExchangeChanged} firstText={firstText} inputText={inputText} setInputText={setInputText} buy={buyMoney1}/>
+          <NewOperationUSD setExchangeChanged={setExchangeChanged} firstText={firstText} inputText={inputText} setInputText={setInputText} buy={buyMoney1}/>
         </div>
         <div className="sale-box"> 
-          <NewOperationUSD setExchange2Changed={setExchange2Changed} secondText={secondText} outputText= {outputText} setOutputText={setOutputText} sell={buyMoney2}/>
+          <NewOperationPEN setExchange2Changed={setExchange2Changed} secondText={secondText} outputText= {outputText} setOutputText={setOutputText} sell={buyMoney2}/>
         </div>
       </div>
     </div>

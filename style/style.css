@@ -62,14 +62,22 @@ header {
   width: 100%; }
 
 .buy-price p, .sale-price p {
-  color: #0998d9; }
+  color: #fff;
+  background-color: #7ace3b;
+  padding: 0.8em;
+  text-transform: uppercase;
+  margin-bottom: 0; }
 
 .coin {
   background-color: #0998d9;
-  color: #fff; }
+  color: #fff;
+  padding: 1em; }
 
 .personal-information h4, .personal-information p {
   display: inline-block; }
+
+.what-i-have input {
+  text-align: center; }
 
 /* Navigation Components */
 .aside {
