@@ -172,7 +172,7 @@ table {
 }
 
 table th {
-  padding: 0 1em;
+  padding: 0.2em 0.25em;
 }
 
 thead {
@@ -196,11 +196,22 @@ tbody {
     width: 25%;
     margin-left: 1em;
   }
+
+  table th {
+    padding: 1em 0.3em;
+  }
 }
 
 @media(min-width: 992px) {
   .logo {
     margin-left: 1.6em;
+  }
+  table {
+    width: 70%;
+  }
+  
+  table th {
+    padding: 0 1em;
   }
 }
 
@@ -208,6 +219,10 @@ tbody {
   .logo {
     width: 12%;
     margin-left: 2em;
+  }
+
+  table {
+    width: 50%;
   }
 }
 
