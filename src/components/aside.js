@@ -23,7 +23,7 @@ const Aside = () => (
       <UserInfo title={data.personalInfo.title} otherInfo={data.personalInfo.otherInfo} />
       {/* <NavigationOptionsList options={data.userOptions}/> */}
       <ul>
-        <li><Link to='/new-operation'>Nueva Operación</Link></li>
+        <li><Link to='/'>Nueva Operación</Link></li>
         <li><Link to='/historial'>Historial de Operaciones</Link></li>
         <li><Link to='/bank-rextie'>Cuentas Bancarias de Rextie</Link></li>
       </ul>
