@@ -64,7 +64,9 @@ Identificamos a nuestros competidores y evaluamos sus estrategias para determina
 ![rectangle 3](https://user-images.githubusercontent.com/31807340/37689914-d49b10e4-2c75-11e8-97f3-b92b2f8d0528.png)  
 
 ### User Personas  
-Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.
+Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que podríamos resolver.  
+
+![rextie 16](https://user-images.githubusercontent.com/31807340/38168690-0d4c9bae-351a-11e8-889f-2185d88c678a.png)
 
 ### Flujo del usuario en el prototipo de la web de Rextie renovado  
 
