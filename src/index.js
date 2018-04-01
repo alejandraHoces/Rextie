@@ -1,11 +1,13 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import { render } from 'react-dom';
 import App from './components/app';
 import { Provider } from 'react-redux';
+import { BrowserRouter } from 'react-router-dom';
 
-render(
-  <Provider>
+ReactDOM.render(
+  <BrowserRouter>
     <App />
-  </Provider>,
+  </BrowserRouter>,
   document.getElementById('root')
 )
