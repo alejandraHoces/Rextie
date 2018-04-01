@@ -43,19 +43,21 @@ En el siguiente esquema, se analiso la información de la web de Rextie que se m
 [Ver con detalle](https://drive.google.com/drive/my-drive)  
 
 #### Problemas principales  
-1.Vista nueva operacion  
+Segun las entrevistas y el analisis del sitemap se encotraron los siguentes problemas a solucionar.  
+
+**1.Vista nueva operacion**  
 - No se muestra de forma clara cuándo es compra y cuando es venta.  
 - No se identifica el boton de cambio de moneda no es clara su utilidad.  
 
-2.Opcion de registro  
+**2.Opcion de registro**  
 - No se tiene claro desde el inicio que tiene que registrar cuenta en soles y dolares.  
 - El registro de cuentas solo permite hacerlo uno por uno de forma individual.  
 
-3.Opcion de Seleccion de cuentas(Origen/Destino)  
+**3.Opcion de Seleccion de cuentas(Origen/Destino)**  
 - Al seleccionar cuenta de origen no hay una guia que le indique al usuario que es la cuenta de la que se realizara la transferencia.  
 - Al seleccionar la cuenta de destino hay una guia que le indique al usuario que tiene que añadir otra cuenta y de diferente denominacion de la que transfirio.  
 
-4.Notificacion de la operacion  
+**4.Notificacion de la operacion**  
 - Al mostrar el mensaje de ultimos pasos de la operacion no se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
 - Al inicio de la notificacion aparece el codigo de operacion eso da a entender al usuario que la operacion a culminado.  
 
@@ -64,7 +66,7 @@ Sabemos que el principal problema de nuestro usuario es la claridad de la inform
 **Análisis Competitivo**  
 
 Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades en relación con las de nuestra propia solución.  
-![rectangle 3](https://user-images.githubusercontent.com/31807340/37689914-d49b10e4-2c75-11e8-97f3-b92b2f8d0528.png)  
+![rectangle 6](https://user-images.githubusercontent.com/31807340/38169142-abb06368-3527-11e8-9b0c-73f8b81410d1.png)
 
 ### User Personas  
 Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que vamos resolver.  
@@ -72,7 +74,7 @@ Creamos un par de "personajes" ficticios para organizar y descubrir patrones en 
 ![rextie 16](https://user-images.githubusercontent.com/31807340/38168690-0d4c9bae-351a-11e8-889f-2185d88c678a.png)
 
 ### Prototipo de alta fidelidad  
-Con toda la informacion de la investigacion realizada rediseñamos la web de Rextie manteniendo su escensia y haciendolo mas intuitivo .
+Con toda la informacion de la investigacion realizada rediseñamos la web de Rextie manteniendo su escensia y haciendolo mas intuitivo  
 [ver prototipo a qui!](https://marvelapp.com/3bi16f0)
 **Pantalla Inicial**  
 ![37799726-98c252d8-2dee-11e8-9307-c1f55b3aaae5](https://user-images.githubusercontent.com/31807340/38168169-b52a1a64-350a-11e8-8327-ccb0499d2b9f.png)
