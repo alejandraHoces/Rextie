@@ -2,7 +2,9 @@ import React from 'react';
 import NewOperationPEN from './NewOperationPEN';
 import NewOperationUSD from './NewOperationUSD';
 
-const NewOperation = ({icon}) => {
+const NewOperation = ({inputText, outputText, firstText, secondText, buyMoney1, 
+  setInputText, setOutputText, setExchangeChanged, setExchange2Changed, buyMoney2
+}) => {
   return (
     <div className="new-operation">
       <div className="main-box">
@@ -14,11 +16,10 @@ const NewOperation = ({icon}) => {
       </div>
       <div className="buy-sale-box">
         <div className="buy-box"> 
-          <NewOperationPEN />
+          <NewOperationPEN setExchangeChanged={setExchangeChanged} firstText={firstText} inputText={inputText} setInputText={setInputText} buy={buyMoney1}/>
         </div>
-        <div className="flex-dollar-container"><span className="dollar-icon-container"><img src={"../../assets/icons/" + icon} alt={icon}/></span></div>
         <div className="sale-box"> 
-          <NewOperationUSD />
+          <NewOperationUSD setExchange2Changed={setExchange2Changed} secondText={secondText} outputText= {outputText} setOutputText={setOutputText} sell={buyMoney2}/>
         </div>
       </div>
     </div>
