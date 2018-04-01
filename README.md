@@ -72,13 +72,14 @@ Con toda la informacion de la investigacion realizada rediseñamos la web de Rex
 [ver prototipo a qui!](https://marvelapp.com/3bi16f0)  
 
 **Pantalla Inicial**  
-Se añadio una vista de bienvenida amigable para el usuario.  
+Se añadio una vista de bienvenida amigable para el usuario esta se muestra despues del registro.  
 En la segunda vista se muestra de forma mas visible cuando se realiza una operacion de compra o venta.
 
 ![37799726-98c252d8-2dee-11e8-9307-c1f55b3aaae5](https://user-images.githubusercontent.com/31807340/38168169-b52a1a64-350a-11e8-8327-ccb0499d2b9f.png)
 
 
 **Vista confirmacion de datos**  
+Se añadio el mensaje que especifica que se debe agregar cuentas tanto en dolares como en soles.
 ![desktop 6](https://user-images.githubusercontent.com/31807340/37800608-71a41206-2df1-11e8-84c0-0eb55982c007.png)  
 
 **Vista añadir terceros**  
