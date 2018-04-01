@@ -5,20 +5,10 @@ import { Link } from 'react-router-dom';
 
 const data = {
   personalInfo: { title: 'Cuenta Personal', otherInfo: [['DNI:', 78451235], ['Ponte', 'Ana']] },
-  // userOptions: [
-  //   ['boton-de-reproduccion.png', 'Nueva Operación'],
-  //   ['usuario-hombre.png', 'Información Personal'],
-  //   ['pago-con-tarjetas-de-credito.png', 'Cuentas Bancarias Registradas'],
-  //   ['historial-de-navegacion-simbolo-de-interfaz-de-un-reloj-con-una-flecha.png', 'Historial de Operaciones'],
-  //   ['pago-con-tarjetas-de-credito.png', 'Cuentas Bancarias de Rextie'],
-  //   ['logout.png', 'Salir']
-  // ]
-  // userOptions: ['Nueva Operación', 'Información Personal', 'Cuentas Bancarias Registradas', 'Historial de Operaciones', 'Cuentas Bancarias de Rextie', 'Salir'],
-  // icons: ['boton-de-reproduccion.png', 'usuario-hombre.png', 'pago-con-tarjetas-de-credito.png', ,'historial-de-navegacion-simbolo-de-interfaz-de-un-reloj-con-una-flecha.png', 'logout.png']
   menuOptions : [
     { route: '/', icon: 'boton-de-reproduccion.png', text: 'Nueva Operación' },
     { route: '', icon: 'usuario-hombre.png', text: 'Información Personal' },
-    { route: '', icon: 'pago-con-tarjetas-de-credito.png', text: 'Cuentas Bancarias Registradas' },
+    { route: '/register-acount', icon: 'pago-con-tarjetas-de-credito.png', text: 'Cuentas Bancarias Registradas' },
     { route: '/historial', icon: 'historial-de-navegacion-simbolo-de-interfaz-de-un-reloj-con-una-flecha.png', text: 'Historial de Operaciones' },
     { route: '/bank-rextie', icon: 'pago-con-tarjetas-de-credito.png', text: 'Cuentas Bancarias de Rextie' },
     { route: '', icon: 'logout.png', text: 'salir' },

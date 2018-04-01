@@ -1,3 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+$blue: #26A8E0;
+$green: #7ACE3B;
+$white: #F6F9FC;
+$dark-grey: #737476;
+$middle-grey: #A2A2A2;
+$ligth-grey: #E6E7E8;
+
+
 body {
   box-sizing: border-box;
   margin: 0;
@@ -5,7 +19,7 @@ body {
 }
 
 header {
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid $middle-grey;
 }
 
 .logo {
@@ -22,7 +36,7 @@ header {
 }
 
 .info-main-box {
-  background-color: #5d5d57;
+  background-color: $ligth-grey;
   border-radius: 3px;
   max-width: 450px;
   padding: 0.8em 3em;
@@ -30,12 +44,12 @@ header {
     color: #fff;
   }
   p {
-    color: #4db63f;
+    color: $green;
   }
 }
 
 .buy-sale-box {
-  border: 2px solid #0998d9;
+  border: 2px solid $blue;
   border-radius: 3px;
   margin-top: 1.2em;
   max-width: 450px;
@@ -56,7 +70,7 @@ header {
 }
 
 .dollar-icon-container {
-  background-color: #7ace3b;
+  background-color: $green;
   border-radius: 50%;
   width: 20%;
   position: relative;
@@ -76,14 +90,14 @@ header {
 
 .buy-price p, .sale-price p {
   color: #fff;
-  background-color: #7ace3b;
+  background-color: $green;
   padding: 0.8em;
   text-transform: uppercase;
   margin-bottom: 0;
 }
 
 .coin {
-  background-color: #0998d9;
+  background-color: $blue;
   color: #fff;
   padding: 1em;
 }
@@ -101,11 +115,11 @@ header {
 /* Navigation Components */
 
 .aside {
-  border-right: 1px solid gray;
+  border-right: 1px solid $ligth-grey;
 }
 
 .personal-account {
-  background-color: #7ace3b;
+  background-color: $green;
   color: white;
   font-weight: 600;
   padding: 1em 3em;
@@ -121,7 +135,7 @@ header {
 }
 
 .list-group-item:first-of-type {
-  background-color: #454547;
+  background-color: $dark-grey;
   color: white;
 }
 
@@ -130,6 +144,21 @@ header {
   height: auto;
   width: 8%;
   margin-right: 1em;
+}
+
+// Personal Bank Account
+.header-personal-bank-account {
+  h3 {
+    display: inline-block;
+    font-size: 1.4rem;
+    margin: 0;
+    vertical-align: middle;
+  }
+
+  img {
+    width: 45px;
+    margin-left: 0.5em;
+  }
 }
 
 /* Rextie Bank Accounts Component */
