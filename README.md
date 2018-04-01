@@ -69,8 +69,12 @@ Creamos un par de "personajes" ficticios para organizar y descubrir patrones en 
 
 ### Prototipo de alta fidelidad  
 Con toda la informacion de la investigacion realizada rediseñamos la web de Rextie manteniendo su escensia y haciendolo mas intuitivo  
-[ver prototipo a qui!](https://marvelapp.com/3bi16f0)
+[ver prototipo a qui!](https://marvelapp.com/3bi16f0)  
+
 **Pantalla Inicial**  
+Se añadio una vista de bienvenida amigable para el usuario.  
+En la segunda vista se muestra de forma mas visible cuando se realiza una operacion de compra o venta.
+
 ![37799726-98c252d8-2dee-11e8-9307-c1f55b3aaae5](https://user-images.githubusercontent.com/31807340/38168169-b52a1a64-350a-11e8-8327-ccb0499d2b9f.png)
 
 
