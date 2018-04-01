@@ -1,16 +1,25 @@
 import React from 'react';
 
-const NewOperationPEN = () => (
+const NewOperationPEN = ({setExchangeChanged, firstText, inputText, setInputText, buy}) => (
   <div>
     <div className="buy-price">
-      <p>Compra: 3.2523</p>
+      <p onClick={evt => {
+    // console.log(evt.isTrusted)
+    setExchangeChanged(evt.isTrusted);
+  }}>Compra:<span>{buy}</span></p>
     </div>
     <div className="coin">
       <span>PEN s/</span>
     </div>
     <div className="what-i-have">
-      <p>tengo</p>
-      <p>3.250</p>
+      <p>{firstText}</p>
+      <input 
+      value={inputText} 
+      onChange={evt => {
+        setInputText(evt.target.value)
+      }}
+      placeholder="Input"
+      />
     </div>
   </div>
 )

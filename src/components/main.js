@@ -1,7 +1,7 @@
 import React from 'react';
 // import TransactionHistory from "./TransactionHistory";
 // import RextieBankAccounts from "./RextieBankAccounts";
-import NewOperation from './NewOperation';
+import NewOperation from '../containers/NewOperation';
 
 
 const Main = () => {
