@@ -113,6 +113,17 @@ header {
   }
 }
 
+.flag-pe-icon {
+  width: 22%;
+  margin: 0 1em;
+}
+
+.flag-us-icon {
+  // width: 27%;
+  width: 22%;
+  margin: 0 1em;
+}
+
 /* Navigation Components */
 
 .aside {
@@ -214,7 +225,7 @@ tbody {
 
 .container-soles {
   th, td {
-    border: 1px solid $ligth-grey; 
+    border: 1px solid $light-grey; 
     padding: 0.5em;
     width: 11em;   
     color: $dark-grey;

@@ -5,6 +5,10 @@ const DATA = {
   iWantText: 'Quiero',
   buySoles: 3.1900,
   buyDollars: 3.2380,
+  money1: 'PEN S/',
+  money2: 'USD $',
+  flag1: 'pe.png',
+  flag2: 'us.png',
   accounts: [
     {name: 'CCI Interbank', accountDollars: '00316600300127343563', accountSoles:  '00316600300127342868'},
     {name:'BCP', accountDollars: '1931700523109', accountSoles:  '1932357833093'},
@@ -20,12 +24,16 @@ const INIT_STATE = {
   secondInputText: DATA.iWantText,
   inputText: '',
   outputText: '',
+  peruvianMoney: DATA.money1,
+  americanMoney: DATA.money2,
+  peruvianFlag:DATA.flag1,
+  americanFlag: DATA.flag2,
   exchangeForMoney1: DATA.buySoles,
   exchangeForMoney2: DATA.buyDollars,
   exchange: false,
   exchange2: false
 }
-
+console.log(DATA);
 export default (state = INIT_STATE, action) => {
   switch (action.type) {
     case actionTypes.INPUT_TEXT_CHANGED:
@@ -45,19 +53,19 @@ export default (state = INIT_STATE, action) => {
     case actionTypes.EXCHANGE_CHANGED:
       state = {
         ...state,
-        firstInputText: DATA.iHaveText,
-        secondInputText: DATA.iWantText,
-        exchangeForMoney1: DATA.buySoles,
-        exchangeForMoney2: DATA.buyDollars
+        peruvianMoney: DATA.money1,
+        americanMoney: DATA.money2,
+        peruvianFlag: DATA.flag1,
+        americanFlag: DATA.flag2
       }
       break;
     case actionTypes.EXCHANGE_2_CHANGED:
       state = {
         ...state,
-        firstInputText: DATA.iWantText,
-        secondInputText: DATA.iHaveText,
-        exchangeForMoney1: DATA.buyDollars,
-        exchangeForMoney2: DATA.buySoles
+        peruvianMoney: DATA.money2,
+        americanMoney: DATA.money1,
+        peruvianFlag: DATA.flag2,
+        americanFlag: DATA.flag1
       }
       break;
     default:
