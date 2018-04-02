@@ -4,11 +4,18 @@ const DATA = {
   iHaveText: 'Tengo',
   iWantText: 'Quiero',
   buySoles: 3.1900,
-  buyDollars: 3.2380
+  buyDollars: 3.2380,
+  accounts: [
+    {name: 'CCI Interbank', accountDollars: '00316600300127343563', accountSoles:  '00316600300127342868'},
+    {name:'BCP', accountDollars: '1931700523109', accountSoles:  '1932357833093'},
+    {name:'INTERBANK', accountDollars: '1663001273435', accountSoles: '1663001273428'}
+  ]
 }
-
+// {DATA.accounts.map( account => {
+//   console.log(account.accountDollars);
+// } );}
 const INIT_STATE = {
-  // info: DATA,
+  bankAccounts: DATA.accounts,
   firstInputText: DATA.iHaveText,
   secondInputText: DATA.iWantText,
   inputText: '',

@@ -1,23 +1,9 @@
 import React from 'react';
-
-const DATA = [{
-  title: 'Cuentas Bancarias de Rextie',
-  banks: [['Corriente', 'Doláres', '00316600300127343563'], ['Corriente', 'Soles', '00316600300127342868']]
-}]
-
+// debugger
 const RextieBankAccounts = () => {
-  // var firstTh = document.getElementById('account-1').textContent;
-  // var secondTh = document.getElementById('account-2').textContent;
-  // var thirdTh = document.getElementById('account-3').textContent;
-  // var fourthTh = document.getElementById('account-4').textContent;
-  // var fifthTh = document.getElementById('account-5').textContent;
-  // var sixthTh = document.getElementById('account-6').textContent;
-  // localStorage.firstAccount = firstTh;
-  // localStorage.secondAccount = secondTh;
-  // localStorage.thirdAccount = thirdTh;
-  // localStorage.fourthAccount = fourthTh;
-  // localStorage.fifthAccount = fifthTh;
-  // localStorage.sixthAccount = sixthTh;
+  // {rextieAccounts.map( account => {
+  //   console.log(account);
+  // } );}
   return (
     <div>
       <h2>Cuentas Bancarias de Rextie</h2>

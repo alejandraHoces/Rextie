@@ -71,7 +71,8 @@ header {
   background-color: #7ACE3B;
   padding: 0.8em;
   text-transform: uppercase;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  cursor: pointer; }
 
 .coin {
   background-color: #26A8E0;

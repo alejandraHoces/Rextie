@@ -10,7 +10,7 @@ const NavigationOptionsList = ({menuOptions}) => {
             <ul className="list-group">
                { menuOptions.map(menu =>
                   <NavigationOptions
-                    key={menu.id}
+                    key={menu.text}
                     {...menu}
                   />
                )}
