@@ -26,9 +26,9 @@ gulp.task('css', function() {
   .pipe(gulp.dest('dist/css/'))
 })
 
-gulp.task('deploy', function() {
-  return gulp.src('./dist/**/*')
-  .pipe(deploy())
-})
+// gulp.task('deploy', function() {
+//   return gulp.src('./dist/**/*')
+//   .pipe(deploy())
+// })
 
 gulp.task('minifica-todo', ['css', 'js'])
