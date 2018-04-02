@@ -4,7 +4,7 @@ var concat = require('gulp-concat');
 var babel = require('gulp-babel');
 var minifycss = require('gulp-minify-css');
 var sass = require('gulp-sass');
-var deploy      = require('gulp-gh-pages');
+var deploy = require('gulp-gh-pages');
 
 gulp.task('js', function() {
   return gulp.src(
