@@ -4,6 +4,7 @@ var concat = require('gulp-concat');
 var babel = require('gulp-babel');
 var minifycss = require('gulp-minify-css');
 var sass = require('gulp-sass');
+var deploy      = require('gulp-gh-pages');
 
 gulp.task('js', function() {
   return gulp.src(
@@ -24,3 +25,10 @@ gulp.task('css', function() {
   .pipe(minifycss())
   .pipe(gulp.dest('dist/css/'))
 })
+
+gulp.task('deploy', function() {
+  return gulp.src('./dist/**/*')
+  .pipe(deploy())
+})
+
+gulp.task('minifica-todo', ['css', 'js'])
