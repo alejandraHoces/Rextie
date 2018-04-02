@@ -9,8 +9,8 @@ $green: #7ACE3B;
 $almost-white: #F6F9FC;
 $dark-grey: #737476;
 $middle-grey: #A2A2A2;
-$ligth-grey: #E6E7E8;
-
+$light-grey: #E6E7E8;
+$light-blue: #B9CDF1;
 
 body {
   box-sizing: border-box;
@@ -36,7 +36,7 @@ header {
 }
 
 .info-main-box {
-  background-color: $ligth-grey;
+  background-color: $light-grey;
   border-radius: 3px;
   max-width: 450px;
   padding: 0.8em 3em;
@@ -94,6 +94,7 @@ header {
   padding: 0.8em;
   text-transform: uppercase;
   margin-bottom: 0;
+  cursor: pointer;
 }
 
 .coin {
@@ -115,7 +116,7 @@ header {
 /* Navigation Components */
 
 .aside {
-  border-right: 1px solid $ligth-grey;
+  border-right: 1px solid $light-grey;
 }
 
 .personal-account {
@@ -170,10 +171,44 @@ header {
   }
 }
 
+/* Rextie Bank Accounts Component */
+
+.rextie-bank-accounts-table-container {
+  margin: 1em 0 2em;
+}
+
+table {
+  width: 100%;
+}
+
+table th {
+  padding: 0.2em 0.25em;
+}
+
+thead {
+  tr {
+    background-color: $light-blue;
+  }
+}
+
+tbody {
+  tr:nth-child(1) {
+    background-color: $light-grey;
+  }
+
+  th {
+    font-weight: 400;
+  }
+}
+
 @media(min-width: 576px) {
   .logo {
     width: 25%;
     margin-left: 1em;
+  }
+
+  table th {
+    padding: 1em 0.3em;
   }
 }
 
@@ -203,12 +238,23 @@ header {
   .logo {
     margin-left: 1.6em;
   }
+  table {
+    width: 70%;
+  }
+  
+  table th {
+    padding: 0 1em;
+  }
 }
 
 @media(min-width: 1200px) {
   .logo {
     width: 12%;
     margin-left: 2em;
+  }
+
+  table {
+    width: 50%;
   }
 }
 

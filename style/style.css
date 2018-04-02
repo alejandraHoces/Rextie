@@ -71,7 +71,8 @@ header {
   background-color: #7ACE3B;
   padding: 0.8em;
   text-transform: uppercase;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  cursor: pointer; }
 
 .coin {
   background-color: #26A8E0;
@@ -125,6 +126,24 @@ header {
   width: 45px;
   margin-left: 0.5em; }
 
+/* Rextie Bank Accounts Component */
+.rextie-bank-accounts-table-container {
+  margin: 1em 0 2em; }
+
+table {
+  width: 100%; }
+
+table th {
+  padding: 0.2em 0.25em; }
+
+thead tr {
+  background-color: #B9CDF1; }
+
+tbody tr:nth-child(1) {
+  background-color: #E6E7E8; }
+tbody th {
+  font-weight: 400; }
+
 @media (min-width: 576px) {
   .logo {
     width: 25%;
@@ -145,11 +164,20 @@ header {
 
 @media (min-width: 992px) {
   .logo {
-    margin-left: 1.6em; } }
+    margin-left: 1.6em; }
+
+  table {
+    width: 70%; }
+
+  table th {
+    padding: 0 1em; } }
 @media (min-width: 1200px) {
   .logo {
     width: 12%;
-    margin-left: 2em; } }
+    margin-left: 2em; }
+
+  table {
+    width: 50%; } }
 @media (min-width: 1500px) {
   .logo {
     width: 9%; } }
