@@ -12,7 +12,7 @@ const App = () => (
       <div className="row">
         <Aside />
         <Main /> 
-    </div>
+      </div>
     </div>
   </div>
 )   
