@@ -7,6 +7,7 @@ import RextieBankAccounts from "./RextieBankAccounts";
 // import NewOperation from './NewOperation';
 import NewOperation from '../containers/NewOperation';
 import RegisterAccount from './RegisterAccount';
+import PersonalInformation from './PersonalInformation';
 
 
 
@@ -15,6 +16,7 @@ const Main = () => {
     <main className="col-12 col-sm-7 col-md-7 col-lg-7 col-xl-9">
       <Switch>
         <Route exact path='/' component={NewOperation} />
+        <Route path= '/personal-information' component={PersonalInformation}/>
         <Route path='/historial' component={TransactionHistory} />
         <Route path='/bank-rextie' component={RextieBankAccounts} />
         <Route path='/register-acount' component={RegisterAccount} />
