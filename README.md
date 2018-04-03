@@ -35,21 +35,21 @@ Se realizaron pruebas a 5 personas a las cuales se les pidió que utilicen la we
 - Identificar la cuenta a la que realizaran la transferencia.  
 - Finalizar la transacción.
 
-**Usuario 1: Giancarlos CF.**  
-➜ No entendía donde era el cambio de moneda, no hasta que al escribir la cantidad luego de dar clic al siguiente campo.  
-➜ No tenia claro por que le decian que ahorraria dinero con respecto a el cambio de otros bancos.  
-**Usuario 2: Angela HÑ.**  
-➜ No supo cuando era venta o compra.  
-➜ No entendía donde era el cambio de moneda.  
-**Usuario 3: Rodrigo HÑ.**  
-➜ No supo que debia hacer la transferencia en otra cuenta.  
-➜ Tuvo que probar un par de veces para saber que quería decir “Quiero” y “Tengo”.  
-**Usuario 4: Yenni Q.**  
-➜ Tardo en entender cómo hacer una cambio en viceversa dólares - soles.  
-➜ No comprendió que necesitaba dos cuentas bancarias: una cuenta de soles y otra de dólares.  
-**Usuario 5: Irma ÑV.**  
-➜ No se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
-➜ No comprendia que tenia que realizar el deposito por su cuenta pensaba que se la descontaban automaticamente.  
+**→ Usuario 1: Giancarlos CF.**  
+- No entendía la utilidad del boton donde era el cambio de moneda.  
+- No tenia claro por que le decian que ahorraria dinero con respecto a el cambio de otros bancos.  
+**→ Usuario 2: Angela HÑ.**  
+- No supo cuando era venta o compra.  
+- No entendía donde era el cambio de moneda.  
+**→ Usuario 3: Rodrigo HÑ.**  
+- No supo que debia hacer la transferencia en otra cuenta.  
+- Tuvo que probar un par de veces para saber que quería decir “Quiero” y “Tengo”.  
+**→ Usuario 4: Yenni Q.**  
+- Tardo en entender cómo hacer una cambio en viceversa dólares - soles.  
+- No comprendió que necesitaba dos cuentas bancarias: una cuenta de soles y otra de dólares.  
+**→ Usuario 5: Irma ÑV.**  
+- No se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
+- No comprendia que tenia que realizar el deposito por su cuenta pensaba que se la descontaban automaticamente.  
 
 ### Análisis de la arquitectura de la información de la web de Rextie.  
 En el siguiente esquema, se analizó la información de la web de Rextie que se muestra al usuario.  
