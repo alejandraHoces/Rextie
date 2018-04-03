@@ -27,7 +27,7 @@ Se realizaron pruebas a 5 personas a las cuales se les pidió que utilicen la we
 
 ###### *Definición: En una prueba de pensamiento en voz alta, le pides a los participantes de la prueba que usen el sistema mientras piensan continuamente en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.*  
 
-**Se les pidió que realicen las siguientes actividades: **  
+**Se les pidió que realicen las siguientes actividades:**  
 
 - Registrarse e ingresar a la web de Rextie.  
 - Realizar una cotización tanto en soles como dólares.  
@@ -36,21 +36,20 @@ Se realizaron pruebas a 5 personas a las cuales se les pidió que utilicen la we
 - Finalizar la transacción.
 
 Usuario 1: **Giancarlos CF.**  
-- No entendía donde era el cambio de moneda, no hasta que al escribir la cantidad luego de dar clic al siguiente campo.  
-- No tenia claro por que le decian que ahorraria dinero con respecto a el cambio de otros bancos.
+  - No entendía donde era el cambio de moneda, no hasta que al escribir la cantidad luego de dar clic al siguiente campo.  
+  - No tenia claro por que le decian que ahorraria dinero con respecto a el cambio de otros bancos.  
 Usuario 2: **Angela HÑ.**  
-- No supo cuando era venta o compra.
-- No entendía donde era el cambio de moneda.
+  - No supo cuando era venta o compra.  
+  - No entendía donde era el cambio de moneda.  
 Usuario 3: **Rodrigo HÑ.**  
-- No supo que debia hacer la transferencia en otra cuenta.  
-- Tuvo que probar un par de veces para saber que quería decir “Quiero” y “Tengo”.
+  - No supo que debia hacer la transferencia en otra cuenta.  
+  - Tuvo que probar un par de veces para saber que quería decir “Quiero” y “Tengo”.  
 Usuario 4: **Yenni Q.**  
-- Tardo en entender cómo hacer una cambio en viceversa dólares - soles.
-- No comprendió que necesitaba dos cuentas bancarias: una cuenta de soles y otra de dólares.
+  - Tardo en entender cómo hacer una cambio en viceversa dólares - soles.  
+  - No comprendió que necesitaba dos cuentas bancarias: una cuenta de soles y otra de dólares.  
 Usuario 5: **Irma ÑV.**  
-- No se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
-- No comprendia que tenia que realizar el deposito por su cuenta pensaba que se la descontaban automaticamente.
-
+  - No se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
+  - No comprendia que tenia que realizar el deposito por su cuenta pensaba que se la descontaban automaticamente.  
 
 ### Análisis de la arquitectura de la información de la web de Rextie.  
 En el siguiente esquema, se analizó la información de la web de Rextie que se muestra al usuario.  
@@ -70,7 +69,7 @@ Según las entrevistas y el análisis del sitemap se encontraron los siguientes 
 - No se tiene claro desde el inicio que tiene que registrar cuenta en soles y dólares.  
 - El registro de cuentas solo permite hacerlo uno por uno de forma individual.  
 
-**3.Opcion de Selección de cuentas (Origen/Destino) **  
+**3.Opcion de Selección de cuentas (Origen/Destino)**  
 - Al seleccionar cuenta de origen no hay una guía que le indique al usuario que es la cuenta de la que se realizara la transferencia.  
 - Al seleccionar la cuenta de destino hay una guía que le indique al usuario que tiene que añadir otra cuenta y de diferente denominación de la que transfirió.  
 
