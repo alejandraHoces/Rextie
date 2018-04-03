@@ -16,7 +16,7 @@ const data = {
 }
 
 const Aside = () => (
-  <div className="col-12 col-sm-5 col-md-5 col-lg-5 col-xl-3">
+  <div className="col-12 col-sm-5 col-md-5 col-lg-5 col-xl-4">
     <div className="aside">
       <UserInfo title={data.personalInfo.title} otherInfo={data.personalInfo.otherInfo} />
       <NavigationOptionsList menuOptions = {data.menuOptions}/>

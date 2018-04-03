@@ -20,7 +20,7 @@ const data = {
 const PersonalInformation = () => (
   <div className="personal-information">
     <h3>Perfil</h3>
-    <div className="col-6 col-sm-6 col-lg-6">
+    {/* <div className=""> */}
       <PersonalInformationUser info={data.infopersonal}/>
       {/* {infopersonal.map = ( info => {console.log(info)})} */}
       {/* <div className="profile-info">
@@ -59,7 +59,7 @@ const PersonalInformation = () => (
         <label for="job-position">Profesión o Cargo</label>
         <input type="text" className="" id="job-position" placeholder="..." />
       </div>      */}
-    </div>  
+    {/* </div>   */}
   </div>
 )
 
