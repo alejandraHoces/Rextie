@@ -109,6 +109,11 @@ header {
   }
 }
 
+.flag-icon {
+  width: 15%;
+  margin-left: 0.5em;
+}
+
 /* Navigation Components */
 
 .aside {
@@ -240,6 +245,51 @@ tbody {
   }
 }
 
+/* Transaction History Component */
+
+.transaction-history-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.transaction-history-container {
+  h2 {
+    margin: 1em 0 2em;
+  }
+}
+
+.transaction-history-container {
+  thead {
+    tr {
+      font-weight: 700;
+    }
+  }
+}
+
+.transaction-history-container {
+  td {
+    padding: 0.8em;
+  }
+}
+.transaction-history-container {
+  tbody {
+    tr {
+      background-color: $light-grey;
+    }
+  }
+}
+
+@media(min-width: 576px) {
+  .logo {
+    width: 25%;
+    margin-left: 1em;
+  }
+
+  table th {
+    padding: 1em 0.3em;
+  }
+}
 
 .container-soles {
   th, td {
@@ -271,7 +321,6 @@ tbody {
   table th {
     padding: 1em 0.3em;
   }
- 
 }
 
 @media(min-width: 992px) {
@@ -298,9 +347,9 @@ tbody {
     width: 80%;
   }
 
-  .personal-information {
-    // padding: 0 6em;
-  }
+  // .personal-information {
+  //   // padding: 0 6em;
+  // }
 
   .profile-info {
     width: 44%;

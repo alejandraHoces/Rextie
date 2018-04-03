@@ -82,6 +82,10 @@ header {
 .what-i-have input {
   text-align: center; }
 
+.flag-icon {
+  width: 15%;
+  margin-left: 0.5em; }
+
 /* Navigation Components */
 .aside {
   border-right: 1px solid #E6E7E8; }
@@ -174,6 +178,31 @@ tbody tr:nth-child(1) {
 tbody th {
   font-weight: 400; }
 
+/* Transaction History Component */
+.transaction-history-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.transaction-history-container h2 {
+  margin: 1em 0 2em; }
+
+.transaction-history-container thead tr {
+  font-weight: 700; }
+
+.transaction-history-container td {
+  padding: 0.8em; }
+
+.transaction-history-container tbody tr {
+  background-color: #E6E7E8; }
+
+@media (min-width: 576px) {
+  .logo {
+    width: 25%;
+    margin-left: 1em; }
+
+  table th {
+    padding: 1em 0.3em; } }
 .container-soles th, .container-soles td {
   border: 1px solid #E6E7E8;
   padding: 0.5em;
