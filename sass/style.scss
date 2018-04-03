@@ -171,12 +171,6 @@ header {
   margin-right: 1em;
 }
 
-
-
-// .personal-information h4, .personal-information p {
-//   display: inline-block;
-// }
-
 // Personal info
 .personal-information {
   margin-top: 9.1em;
@@ -225,15 +219,27 @@ header {
 
 /* Rextie Bank Accounts Component */
 
-.rextie-bank-accounts-table-container {
-  margin: 1em 0 2em;
+.rextie-bank-accounts {
+  margin-top: 9.1em;
+  padding: 0 0.9em;
 }
 
+.rextie-bank-accounts-table-container {
+  // margin: 1em 0 2em;
+  width: 100% !important;
+  p {
+    font-size: 0.8rem;
+    margin: 0.7em 0 1.6em 0;
+  }
+}
+  
 table {
   width: 100%;
 }
 
 table th {
+  border: 1px solid $middle-grey;
+  font-size: 0.9rem;
   padding: 0.2em 0.25em;
 }
 
@@ -329,7 +335,6 @@ tbody {
   table th {
     padding: 1em 0.3em;
   }
- 
 }
 
 @media(min-width: 992px) {
@@ -338,11 +343,11 @@ tbody {
     margin-left: 1.6em;
   }
   table {
-    width: 70%;
+    // width: 70%;
   }
   
   table th {
-    padding: 0 1em;
+    padding: 1em 0.3em;
   }
 }
 
@@ -353,7 +358,7 @@ tbody {
   }
 
   table {
-    width: 50%;
+    width: 80%;
   }
 
   // .personal-information {

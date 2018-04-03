@@ -5,7 +5,7 @@ const RextieBankAccounts = () => {
   //   console.log(account);
   // } );}
   return (
-    <div>
+    <div className="rextie-bank-accounts">
       <h2>Cuentas Bancarias de Rextie</h2>
       {' '}
       <div className="rextie-bank-accounts-table-container">
