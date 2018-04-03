@@ -10,7 +10,6 @@ import RegisterAccount from './RegisterAccount';
 import PersonalInformation from './PersonalInformation';
 
 
-
 const Main = () => {
   return (
     <main className="col-12 col-sm-7 col-md-7 col-lg-7 col-xl-9">

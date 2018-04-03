@@ -14,16 +14,12 @@ const data = {
     { route: '', icon: 'logout.png', text: 'salir' },
   ]
 }
+
 const Aside = () => (
   <div className="col-12 col-sm-5 col-md-5 col-lg-5 col-xl-3">
     <div className="aside">
       <UserInfo title={data.personalInfo.title} otherInfo={data.personalInfo.otherInfo} />
       <NavigationOptionsList menuOptions = {data.menuOptions}/>
-      {/* <ul>
-        <li><Link to='/'>Nueva Operación</Link></li>
-        <li><Link to='/historial'>Historial de Operaciones</Link></li>
-        <li><Link to='/bank-rextie'>Cuentas Bancarias de Rextie</Link></li>
-      </ul> */}
     </div>
   </div>
 )
