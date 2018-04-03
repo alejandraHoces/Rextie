@@ -14,11 +14,7 @@ const NewOperationComponentWithRedux = connect(
       exchangeForMoney1,
       exchangeForMoney2,
       exchange,
-      exchange2,
-      americanMoney,
-      americanFlag,
-      peruvianMoney,
-      peruvianFlag
+      exchange2
     } = state.AppReducer;
 
     return {
@@ -29,11 +25,7 @@ const NewOperationComponentWithRedux = connect(
       buyMoney1: exchangeForMoney1,
       buyMoney2: exchangeForMoney2,
       exchange,
-      exchange2,
-      soles: peruvianMoney,
-      dollars: americanMoney,
-      peru: peruvianFlag,
-      us: americanFlag
+      exchange2
     };
   },
 

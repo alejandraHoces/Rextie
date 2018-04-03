@@ -4,7 +4,7 @@ var concat = require('gulp-concat');
 var babel = require('gulp-babel');
 var minifycss = require('gulp-minify-css');
 var sass = require('gulp-sass');
-var deploy = require('gulp-gh-pages');
+var ghpages = require('gulp-gh-pages');
 
 gulp.task('js', function() {
   return gulp.src(
@@ -19,16 +19,17 @@ gulp.task('js', function() {
 });
 
 gulp.task('css', function() {
-  return gulp.src(['style/style.css', 'src/sass/style.scss'])
+  return gulp.src(['style/style.css', 'sass/style.scss'])
+  // agregar al sass, lo convertirá a css
   .pipe(sass())
   .pipe(concat('main.min.css'))
   .pipe(minifycss())
   .pipe(gulp.dest('dist/css/'))
 })
 
-// gulp.task('deploy', function() {
-//   return gulp.src('./dist/**/*')
-//   .pipe(deploy())
-// })
+// ejecuta el wacth y ante cualquier cambio va a ejecutar la tarea css
+gulp.task('watch', function(){
+  gulp.watch(['style/style.css', 'sass/style.scss'], ['css']);
+  gulp.watch(['src/index.js', 'src/store.jsx', 'src/actions/*.js', 'src/components/*.jsx', 'src/containers/*.jsx', 'src/reducers/*.jsx'], ['js'])
+})
 
-gulp.task('minifica-todo', ['css', 'js'])

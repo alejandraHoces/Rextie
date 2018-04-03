@@ -1,6 +1,6 @@
 import React from 'react';
 
-const NewOperationPEN = ({setExchange2Changed, secondText, outputText, setOutputText, sell, flag2, soles}) => (
+const NewOperationPEN = ({setExchange2Changed, secondText, outputText, setOutputText, sell}) => (
   <div>
     <div className="sale-price font-weight-bold">   
       <p onClick={evt => {
@@ -9,7 +9,7 @@ const NewOperationPEN = ({setExchange2Changed, secondText, outputText, setOutput
        }}>Venta:{' '}<span>{sell}</span></p>
     </div>
     <div className="coin">
-      <span>{soles}</span><span><img className="flag-pe-icon" src={"../../assets/icons/" + flag2} alt={flag2} /></span>
+      <span>PEN S/</span>
     </div>
     <div className="what-i-have">
       <p>{secondText}</p>

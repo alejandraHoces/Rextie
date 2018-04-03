@@ -85,14 +85,6 @@ header {
 .what-i-have input {
   text-align: center; }
 
-.flag-pe-icon {
-  width: 22%;
-  margin: 0 1em; }
-
-.flag-us-icon {
-  width: 22%;
-  margin: 0 1em; }
-
 /* Navigation Components */
 .aside {
   border-right: 1px solid #E6E7E8; }
@@ -155,10 +147,7 @@ tbody th {
 @media (min-width: 576px) {
   .logo {
     width: 25%;
-    margin-left: 1em; }
-
-  table th {
-    padding: 1em 0.3em; } }
+    margin-left: 1em; } }
 .container-soles th, .container-soles td {
   border: 1px solid #E6E7E8;
   padding: 0.5em;
