@@ -11,6 +11,7 @@ const data = {
     { label: 'Número de Documento'},
     { label: 'Ocupación'},
     { label: 'Profesión o Cargo'},
+    { label: 'Correo Electrónico'},
     { label: 'Celular / Fijo'},
     { label: 'Ubigeo DNI -Nacimiento'},
     { label: 'Fecha de Emisión'}
