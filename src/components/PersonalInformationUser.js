@@ -1,7 +1,7 @@
 import React from 'react';
 
 const PersonalInformationUser = ({ info }) => (
-  <div className="profile-info">
+  <div className="profile-info-container">
     {/* {info.map(info.map((i, v)=>{console.log(i)}))}  */}
     {info.map(i =>  
       <div className="profile-info">

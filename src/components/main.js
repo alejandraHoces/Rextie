@@ -12,7 +12,7 @@ import PersonalInformation from './PersonalInformation';
 
 const Main = () => {
   return (
-    <main className="col-12 col-sm-7 col-md-7 col-lg-7 col-xl-9">
+    <main className="col-12 col-sm-7 col-md-7 col-lg-7 col-xl-8">
       <Switch>
         <Route exact path='/' component={NewOperation} />
         <Route path= '/personal-information' component={PersonalInformation}/>
