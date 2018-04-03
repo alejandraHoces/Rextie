@@ -85,7 +85,9 @@ header {
 .what-i-have {
   padding: 0 0 1em 0; }
   .what-i-have input {
-    text-align: center; }
+    text-align: center;
+    border: none;
+    outline: 0; }
 
 .coin, .what-i-have {
   border-right: 1px solid #26A8E0;
@@ -94,6 +96,17 @@ header {
 .flag-icon {
   width: 15%;
   margin-left: 0.5em; }
+
+.button-container {
+  margin: 3em 0; }
+  .button-container .next-button {
+    padding: 0.5em 4em;
+    background-color: #7ACE3B;
+    border-radius: 50px;
+    border: 1px solid #7ACE3B;
+    color: #F6F9FC;
+    font-size: 1.1em;
+    outline: 0; }
 
 /* Navigation Components */
 .aside {

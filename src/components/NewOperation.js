@@ -22,6 +22,9 @@ const NewOperation = ({inputText, outputText, firstText, secondText, buyMoney1, 
           <NewOperationPEN setExchange2Changed={setExchange2Changed} secondText={secondText} outputText= {outputText} setOutputText={setOutputText} sell={buyMoney2} moneyType={peruvianMoney} peru={peruvianFlag} placeholder={secondPlaceholder} />
         </div>
       </div>
+      <div className="button-container">
+        <button className="next-button font-weight-bold">Continuar</button>
+      </div>
     </div>
   )
 }
