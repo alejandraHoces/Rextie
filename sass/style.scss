@@ -113,6 +113,11 @@ header {
   }
 }
 
+.flag-icon {
+  width: 15%;
+  margin-left: 0.5em;
+}
+
 /* Navigation Components */
 
 .aside {
@@ -227,6 +232,41 @@ tbody {
 
   th {
     font-weight: 400;
+  }
+}
+
+/* Transaction History Component */
+
+.transaction-history-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.transaction-history-container {
+  h2 {
+    margin: 1em 0 2em;
+  }
+}
+
+.transaction-history-container {
+  thead {
+    tr {
+      font-weight: 700;
+    }
+  }
+}
+
+.transaction-history-container {
+  td {
+    padding: 0.8em;
+  }
+}
+.transaction-history-container {
+  tbody {
+    tr {
+      background-color: $light-grey;
+    }
   }
 }
 
