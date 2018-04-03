@@ -82,11 +82,17 @@ header {
 
 .buy-box {
   position: relative;
+  // border-right: 2px solid $blue;
+  margin: 0;
 }
 
 .buy-box, .sale-box {
   width: 100%;
-} 
+}
+
+// .sale-box {
+//   border-left: 2px solid $blue;
+// }
 
 .buy-price p, .sale-price p {
   color: #fff;
@@ -95,18 +101,26 @@ header {
   text-transform: uppercase;
   margin-bottom: 0;
   cursor: pointer;
+  border-radius: 2px;
 }
 
 .coin {
   background-color: $blue;
   color: #fff;
   padding: 1em;
+  border-radius: 2px;
 }
 
 .what-i-have {
+  padding: 0 0 1em 0;
   input {
     text-align: center;
   }
+}
+
+.coin, .what-i-have {
+  border-right: 1px solid $blue;
+  border-left: 1px solid $blue;
 }
 
 .flag-icon {

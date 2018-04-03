@@ -61,7 +61,8 @@ header {
     height: auto; }
 
 .buy-box {
-  position: relative; }
+  position: relative;
+  margin: 0; }
 
 .buy-box, .sale-box {
   width: 100%; }
@@ -72,15 +73,23 @@ header {
   padding: 0.8em;
   text-transform: uppercase;
   margin-bottom: 0;
-  cursor: pointer; }
+  cursor: pointer;
+  border-radius: 2px; }
 
 .coin {
   background-color: #26A8E0;
   color: #fff;
-  padding: 1em; }
+  padding: 1em;
+  border-radius: 2px; }
 
-.what-i-have input {
-  text-align: center; }
+.what-i-have {
+  padding: 0 0 1em 0; }
+  .what-i-have input {
+    text-align: center; }
+
+.coin, .what-i-have {
+  border-right: 1px solid #26A8E0;
+  border-left: 1px solid #26A8E0; }
 
 .flag-icon {
   width: 15%;
