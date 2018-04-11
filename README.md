@@ -93,6 +93,7 @@ Con toda la información de la investigación realizada rediseñamos la web de R
 [Ver prototipo aquí!](https://marvelapp.com/89hi86a)  
 
 **Prueba del Prototipo**  
+![corel](https://user-images.githubusercontent.com/31807340/38591427-443f917c-3cfc-11e8-9cb1-8d815baecf6e.png)
 
 ### Prototipo de alta fidelidad (Versión Desktop)  
 Con toda la información de la investigación realizada rediseñamos la web de Rextie manteniendo su esencia y haciéndolo mas intuitivo  
