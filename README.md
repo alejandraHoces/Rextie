@@ -88,7 +88,13 @@ Creamos un par de "personajes" ficticios para organizar y descubrir patrones en 
 
 ## SOLUCIÓN  
 
-### Prototipo de alta fidelidad (Versión 1)  
+### Prototipo de alta fidelidad (Versión Movile)  
+Con toda la información de la investigación realizada rediseñamos la web de Rextie manteniendo su esencia y haciéndolo mas intuitivo  
+[Ver prototipo aquí!](https://marvelapp.com/89hi86a)  
+
+**Prueba del Prototipo**  
+
+### Prototipo de alta fidelidad (Versión Desktop)  
 Con toda la información de la investigación realizada rediseñamos la web de Rextie manteniendo su esencia y haciéndolo mas intuitivo  
 [Ver prototipo aquí!](https://marvelapp.com/3bi16f0)  
 
