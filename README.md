@@ -10,7 +10,7 @@ dirigido a personas, pequeñas y medianas empresas.
 [Laboratoria](http://laboratoria.la)  
 
 #### ENUNCIADO:
-Proponer un nuevo diseño de la aplicación web (zona privada) que facilite a los
+Nuestro cliente REXTIE nos pidio proponer un nuevo diseño de la aplicación web (zona privada) que facilite a los
 usuarios realizar una cotización y operación de cambio de dólares.  
 
 Dado este contexto:  
