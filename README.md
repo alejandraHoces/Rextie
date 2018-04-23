@@ -65,7 +65,16 @@ En el siguiente esquema, se analizó la información de la web de Rextie que se 
 ![rectangle 3](https://user-images.githubusercontent.com/31807340/37680825-0b3714e0-2c53-11e8-9ce0-acdbf561ce4b.png)  
 [Ver con detalle](https://drive.google.com/drive/my-drive)  
 
+## Análisis competitivo  
+En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:  
+![rectangle 6](https://user-images.githubusercontent.com/31807340/39108235-cf2d04ba-468c-11e8-9286-f469338d767c.png)  
+
 ## SINTESIS  
+
+### User Personas  
+Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que vamos resolver.  
+
+![rextie 16](https://user-images.githubusercontent.com/31807340/38168690-0d4c9bae-351a-11e8-889f-2185d88c678a.png)  
 
 #### Problemas principales  
 Según las entrevistas y el análisis del sitemap se encontraron los siguientes problemas a solucionar.  
@@ -85,11 +94,6 @@ Según las entrevistas y el análisis del sitemap se encontraron los siguientes 
 **4.Notificacion de la operación**  
 - Al mostrar el mensaje de últimos pasos de la operación no se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
 - Al inicio de la notificación aparece el código de operación eso da a entender al usuario que la operación ha culminado.  
-
-### User Personas  
-Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que vamos resolver.  
-
-![rextie 16](https://user-images.githubusercontent.com/31807340/38168690-0d4c9bae-351a-11e8-889f-2185d88c678a.png)
 
 ## SOLUCIÓN  
 
