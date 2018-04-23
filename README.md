@@ -30,6 +30,8 @@ Dado este contexto:
 
 Se realizaron pruebas a 5 personas a las cuales se les pidió que utilicen la web de Rextie y contaran sus experiencias para esta prueba se utilizó la técnica **Thinking Aloud Testing**.  
 
+![2013-05_methoden-im-fokus_usability-test-vs -remote-test_11](https://user-images.githubusercontent.com/31807340/39109446-9ac2ab70-4692-11e8-89ca-ce569ab5aba0.png)  
+
 ###### *Definición: En una prueba de pensamiento en voz alta, le pides a los participantes de la prueba que usen el sistema mientras piensan continuamente en voz alta, es decir, simplemente verbalizan sus pensamientos a medida que se mueven a través de la interfaz de usuario.*  
 
 **Se les pidió que realicen las siguientes actividades:**  
