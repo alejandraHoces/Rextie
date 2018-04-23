@@ -60,16 +60,16 @@ Se realizaron pruebas a 5 personas a las cuales se les pidió que utilicen la we
 - No se muestra con claridad la cuenta a la que se tiene que realizar la transferencia del dinero.  
 - No comprendia que tenia que realizar el deposito por su cuenta pensaba que se la descontaban automaticamente.  
 
-### Análisis de la arquitectura de la información de la web de Rextie.  
+**Análisis de la arquitectura de la información de la web de Rextie.**  
 En el siguiente esquema, se analizó la información de la web de Rextie que se muestra al usuario.  
 ![rectangle 3](https://user-images.githubusercontent.com/31807340/37680825-0b3714e0-2c53-11e8-9ce0-acdbf561ce4b.png)  
 [Ver con detalle](https://drive.google.com/drive/my-drive)  
 
-## Análisis competitivo  
+**Análisis competitivo**  
 En busca de las mejores practicas para ser implantadas encontramos las siguientes empresas:  
 ![rectangle 6](https://user-images.githubusercontent.com/31807340/39108235-cf2d04ba-468c-11e8-9286-f469338d767c.png)  
 
-## SINTESIS  
+### SINTESIS  
 
 ### User Personas  
 Creamos un par de "personajes" ficticios para organizar y descubrir patrones en los objetivos, comportamientos y puntos débiles del usuario. Cada uno de ellos representa un tipo de usuario, que podría abordar uno de los problemas que vamos resolver.  
