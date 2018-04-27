@@ -21,6 +21,7 @@ Dado este contexto:
 
 #### EQUIPO  
 ![equiporextie](https://user-images.githubusercontent.com/31807340/39339304-ab331b04-498d-11e8-8e93-481ef1bb2182.png)
+![corel](https://user-images.githubusercontent.com/31807340/39339470-936c47ba-498e-11e8-9475-92f84a7dbac8.png)
 
 ### Research  
 
