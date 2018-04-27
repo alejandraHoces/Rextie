@@ -29,7 +29,7 @@ Dado este contexto:
 
 Realizamos un análisis FODA para determinar los factores críticos positivos de la aplicación, así como los factores críticos negativos que se deben eliminar o reducir y la amenaza que representan otras aplicaciones de cambio de dolares en el mercado para REXTIE. Con el objetivo de tomar decisiones estratégicas para mejorar las situación actual. 
 
-![corel](https://user-images.githubusercontent.com/31807340/39345362-a9b916aa-49ad-11e8-92d7-f73000dcbd32.png)
+![corel](https://user-images.githubusercontent.com/31807340/39345469-31c4f104-49ae-11e8-8aff-746755277a23.png)
 
 ### Actividades de Investigación realizada con los usuarios.  
 
