@@ -31,9 +31,10 @@ Realizamos un análisis FODA para determinar los factores críticos positivos de
 
 ![corel](https://user-images.githubusercontent.com/31807340/39345469-31c4f104-49ae-11e8-8aff-746755277a23.png)
 
-### Actividades de Investigación realizada con los usuarios.  
+#### Mapa de empatía  
+El mapa de empatía nos permitió conocer quién es el cliente, qué problema tiene y qué propuesta de valor le vamos a ofrecer.  
 
-**Investigación del usuario -  Información Clave**  
+#### Actividades de Investigación realizada con los usuarios.    
 - Nuestra parte interesada creó esta aplicación para que las personas puedan realizar el cambio de moneda de manera rápida, sencilla y segura, sin embargo no muchos usuarios logran completar la transacción.  
 - Los usuarios no estas familiarizados con el cambio de moneda vía web, ellos prefieren hacerlo de forma presencial porque eso es lo que ellos conocen.  
 - Los usuarios necesitan poder realizar su cambio de moneda con una guía constante ya que el servicio es nuevo para ellos.  
