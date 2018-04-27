@@ -20,8 +20,7 @@ Dado este contexto:
 **→ ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?**  
 
 #### EQUIPO  
-![equiporextie](https://user-images.githubusercontent.com/31807340/39339304-ab331b04-498d-11e8-8e93-481ef1bb2182.png)
-![corel](https://user-images.githubusercontent.com/31807340/39339470-936c47ba-498e-11e8-9475-92f84a7dbac8.png)
+![corel](https://user-images.githubusercontent.com/31807340/39339567-1d67bf8a-498f-11e8-907d-8642e3d47c65.png)
 
 ### Research  
 
