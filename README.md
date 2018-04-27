@@ -3,7 +3,7 @@
 Rextie es un servicio de cambio de dólares por internet (www.rextie.com) registrado
 Como casa de cambio en la Superintendencia de Banca, Seguros y AFP (SBS). Está
 dirigido a personas, pequeñas y medianas empresas.  
-![logo_rextie_1200x630-v2 de62cdc2991f 2](https://user-images.githubusercontent.com/31807340/39159492-76528fc8-472b-11e8-9ef1-cef9a86eda19.png)
+![corel](https://user-images.githubusercontent.com/31807340/39339680-b9062b52-498f-11e8-9f34-e89d10dc6f45.png)
 
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)  
