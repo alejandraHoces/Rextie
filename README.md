@@ -8,7 +8,10 @@ dirigido a personas, pequeñas y medianas empresas.
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)  
 
-#### ENUNCIADO:
+- Track: UX Specialization
+- Sprint 06: UX PROCESS
+
+#### OBJETIVO:
 Nuestro cliente REXTIE nos pidio proponer un nuevo diseño de la aplicación web (zona privada) que facilite a los
 usuarios realizar una cotización y operación de cambio de dólares.  
 
@@ -16,9 +19,13 @@ Dado este contexto:
 
 **→ ¿Cómo hacer para crear un diseño más intuitivo y que a su vez mejore la experiencia en la web de Rextie?**  
 
-### RESEARCH  
+#### EQUIPO  
+![equiporextie](https://user-images.githubusercontent.com/31807340/39338035-f7adf858-4985-11e8-9416-e2b55a507868.png)
+
+### Research  
 
 ### Actividades de Investigación realizada con los usuarios.  
+
 **Investigación del usuario -  Información Clave**  
 - Nuestra parte interesada creó esta aplicación para que las personas puedan realizar el cambio de moneda de manera rápida, sencilla y segura, sin embargo no muchos usuarios logran completar la transacción.  
 - Los usuarios no estas familiarizados con el cambio de moneda vía web, ellos prefieren hacerlo de forma presencial porque eso es lo que ellos conocen.  
