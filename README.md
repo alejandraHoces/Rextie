@@ -6,8 +6,7 @@ dirigido a personas, pequeñas y medianas empresas.
 
 ![corel](https://user-images.githubusercontent.com/31807340/39339746-fa4dc354-498f-11e8-961a-2b91e409b34a.png)
 
-## Desarrollado para
-[Laboratoria](http://laboratoria.la)  
+## Desarrollado para [Laboratoria](http://laboratoria.la)  
 
 - Track: UX Specialization
 - Sprint 06: UX PROCESS
