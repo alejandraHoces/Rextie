@@ -120,28 +120,19 @@ Con toda la información de la investigación realizada rediseñamos la web de R
 [Ver prototipo aquí!](https://marvelapp.com/89hi86a)  👈😊
 
 **Prueba del Prototipo**  
-![corel](https://user-images.githubusercontent.com/31807340/38591427-443f917c-3cfc-11e8-9cb1-8d815baecf6e.png)
+![corel](https://user-images.githubusercontent.com/31807340/38591427-443f917c-3cfc-11e8-9cb1-8d815baecf6e.png)  
 
-### Prototipo de alta fidelidad (Versión 2 Desktop)  
-Con toda la información de la investigación realizada rediseñamos la web de Rextie manteniendo su esencia y haciéndolo mas intuitivo  
-[Ver prototipo aquí!](https://marvelapp.com/3bi16f0)  
+## Mejoras  
 
 **Pantalla Inicial**  
 Se añadió una vista de bienvenida amigable para el usuario esta se muestra después del registro.  
-En la segunda vista se muestra de forma más visible cuando se realiza una operación de compra o venta.
-
-![37799726-98c252d8-2dee-11e8-9307-c1f55b3aaae5](https://user-images.githubusercontent.com/31807340/38168169-b52a1a64-350a-11e8-8327-ccb0499d2b9f.png)  
+En la segunda vista se muestra de forma más visible cuando se realiza una operación de compra o venta.  
 
 **Vista confirmación de datos**  
-Se añadió el mensaje que especifica que se debe agregar cuentas tanto en dólares como en soles.
-![desktop 6](https://user-images.githubusercontent.com/31807340/37800608-71a41206-2df1-11e8-84c0-0eb55982c007.png)  
+Se añadió el mensaje que especifica que se debe agregar cuentas tanto en dólares como en soles.  
 
 **Vista añadir terceros**  
-Se añadió una alerta que le permite al usuario añadir una cuenta más, así recuerda que debe añadir dos cuentas.
-![desktop 7](https://user-images.githubusercontent.com/31807340/37801687-8303770e-2df5-11e8-9124-fde8993d1a8e.png)  
+Se añadió una alerta que le permite al usuario añadir una cuenta más, así recuerda que debe añadir dos cuentas.  
 
 **Vista modal confirmación**  
 En la vista de notificación se utilizó un lenguaje amigable para que el usuario pueda comprender con facilidad en que cuenta debe realizar la transferencia de dinero.
-![desktop 8](https://user-images.githubusercontent.com/31807340/37802057-e57a4f4c-2df6-11e8-945a-8071d87e2a3f.png)
-
-
